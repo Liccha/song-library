@@ -1810,13 +1810,6 @@
           "level": 11,
           "combo": 2454
         }
-      },
-      {
-        "mode": "7K",
-        "ez": {
-          "isMode3": true,
-          "name": "Vocaloid"
-        }
       }
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/61.png",
@@ -21590,8 +21583,8 @@
       {
         "mode": "6K",
         "hd": {
-          "isMode3": true,
-          "name": "?-3067"
+          "level": 14,
+          "combo": 3067
         }
       }
     ],
@@ -30857,8 +30850,8 @@
       {
         "mode": "5K",
         "hd": {
-          "isMode3": true,
-          "name": "?-688"
+          "level": 0,
+          "combo": 688
         }
       }
     ],
@@ -30884,8 +30877,8 @@
       {
         "mode": "5K",
         "hd": {
-          "isMode3": true,
-          "name": "?-7032"
+          "level": 0,
+          "combo": 7032
         }
       }
     ],
