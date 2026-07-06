@@ -1,0 +1,3 @@
+sync.py
+*.pyc
+__pycache__
