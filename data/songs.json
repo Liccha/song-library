@@ -30613,13 +30613,6 @@
     "charts": [
       {
         "mode": "4K",
-        "hd": {
-          "level": 11,
-          "combo": 995
-        }
-      },
-      {
-        "mode": "5K",
         "ez": {
           "isMode3": true,
           "name": "Salad Lv.5"
