@@ -18638,6 +18638,9 @@
     "id": 639,
     "name": "卜卦",
     "artist": "崔子格",
+    "album": "时代余音Vol.2",
+    "albumId": "206",
+    "albumDate": "2026-08-11",
     "bpm": 96.0,
     "duration": "02:07",
     "charters": [
@@ -18670,7 +18673,7 @@
           "combo": 521
         },
         "hd": {
-          "level": 7,
+          "level": 8,
           "combo": 968
         }
       },
@@ -18685,7 +18688,7 @@
           "combo": 521
         },
         "hd": {
-          "level": 7,
+          "level": 8,
           "combo": 968
         }
       }
@@ -24314,8 +24317,11 @@
     "nicknames": [
       "绝区零"
     ],
+    "album": "ChiliChill  Vol.2",
+    "albumId": "207",
+    "albumDate": "2026-08-15",
     "bpm": 120.0,
-    "duration": "02:24",
+    "duration": "02:28",
     "charters": [
       "Liccha"
     ],
@@ -29500,6 +29506,9 @@
     "id": 1048,
     "name": "踏浪",
     "artist": "徐怀钰",
+    "album": "时代余音Vol.2",
+    "albumId": "206",
+    "albumDate": "2026-08-11",
     "bpm": 139.0,
     "duration": "03:07",
     "charters": [
@@ -30806,11 +30815,13 @@
     "id": 1097,
     "name": "粉色柠檬",
     "artist": "战场原妖精",
+    "album": "心愿点歌台Vol.9",
+    "albumId": "205",
     "albumDate": "2026-04-01",
     "bpm": 186.0,
     "duration": "03:01",
     "charters": [
-      "Barocks.(From Polychromers)"
+      "Rinki"
     ],
     "charts": [
       {
@@ -34636,7 +34647,7 @@
     "album": "欧美经典Vol.5",
     "albumId": "203",
     "albumDate": "2026-07-17",
-    "bpm": 1435.0,
+    "bpm": 143.5,
     "duration": "01:37",
     "charters": [
       "Furina"
@@ -34708,7 +34719,7 @@
     "album": "SUPER EUROBEAT Vol.2",
     "albumId": "204",
     "albumDate": "2026-07-22",
-    "bpm": 1558.0,
+    "bpm": 155.8,
     "duration": "03:12",
     "charters": [
       "Furina"
@@ -34796,5 +34807,460 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1251.jpg",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1251.mp3"
+  },
+  {
+    "id": 1252,
+    "name": "with U(FULL Ver)",
+    "artist": "t+pazolite",
+    "albumDate": "2026-08-01",
+    "bpm": 155.0,
+    "duration": "04:06",
+    "charters": [
+      "J.R"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 3592
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1252.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1252.mp3"
+  },
+  {
+    "id": 1253,
+    "name": "I",
+    "artist": "黒魔",
+    "albumDate": "2026-08-01",
+    "bpm": 225.0,
+    "duration": "02:02",
+    "charters": [
+      "Bassor"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 13,
+          "combo": 2335
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1253.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1253.mp3"
+  },
+  {
+    "id": 1254,
+    "name": "MONONOKE",
+    "artist": "seatrus",
+    "albumDate": "2026-08-01",
+    "bpm": 175.0,
+    "duration": "02:25",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 11,
+          "combo": 1802
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1254.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1254.mp3"
+  },
+  {
+    "id": 1255,
+    "name": "Hesitation snow（初雪樱op Ver.)",
+    "artist": "fripSide",
+    "albumDate": "2026-08-01",
+    "bpm": 135.0,
+    "duration": "02:33",
+    "charters": [
+      "Q仔糖"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 3,
+          "combo": 807
+        },
+        "nm": {
+          "level": 7,
+          "combo": 980
+        },
+        "hd": {
+          "level": 9,
+          "combo": 1760
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1255.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1255.mp3"
+  },
+  {
+    "id": 1256,
+    "name": "飞入童话",
+    "artist": "凌云归故里",
+    "albumDate": "2026-08-01",
+    "bpm": 157.0,
+    "duration": "01:46",
+    "charters": [
+      "泡沫奶茶"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 4,
+          "combo": 892
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1256.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1256.mp3"
+  },
+  {
+    "id": 1257,
+    "name": "远航星的告别",
+    "artist": "鸣潮先约电台/jixwang/Tarokiki/EmiEvans",
+    "album": "心愿点歌台Vol.9",
+    "albumId": "205",
+    "albumDate": "2026-08-01",
+    "bpm": 84.0,
+    "duration": "03:45",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 8,
+          "combo": 1481
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1257.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1257.mp3"
+  },
+  {
+    "id": 1258,
+    "name": "Linga guli guli",
+    "artist": "Zachz Winner",
+    "album": "心愿点歌台Vol.9",
+    "albumId": "205",
+    "albumDate": "2026-08-01",
+    "bpm": 135.0,
+    "duration": "01:07",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 10,
+          "combo": 623
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1258.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1258.mp3"
+  },
+  {
+    "id": 1259,
+    "name": "Scamper",
+    "artist": "Ik4sumi/ AlphaVersion Records",
+    "album": "心愿点歌台Vol.9",
+    "albumId": "205",
+    "albumDate": "2026-08-01",
+    "bpm": 128.0,
+    "duration": "02:09",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "mx": {
+          "level": 11,
+          "combo": 1019
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1259.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1259.mp3"
+  },
+  {
+    "id": 1260,
+    "name": "GRAYNOTE",
+    "artist": "よみぃ meets BlackY",
+    "album": "心愿点歌台Vol.9",
+    "albumId": "205",
+    "albumDate": "2026-08-01",
+    "bpm": 177.0,
+    "duration": "03:32",
+    "charters": [
+      "Bassor"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 13,
+          "combo": 2799
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1260.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1260.mp3"
+  },
+  {
+    "id": 1261,
+    "name": "最后一页",
+    "artist": "江语晨",
+    "album": "时代余音Vol.2",
+    "albumId": "206",
+    "albumDate": "2026-08-11",
+    "bpm": 70.0,
+    "duration": "01:44",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 6,
+          "combo": 517
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1261.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1261.mp3"
+  },
+  {
+    "id": 1262,
+    "name": "失恋阵线联盟",
+    "artist": "草蜢",
+    "album": "时代余音Vol.2",
+    "albumId": "206",
+    "albumDate": "2026-08-11",
+    "bpm": 132.2,
+    "duration": "01:27",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 2,
+          "combo": 178
+        },
+        "nm": {
+          "level": 4,
+          "combo": 338
+        },
+        "hd": {
+          "level": 7,
+          "combo": 606
+        }
+      },
+      {
+        "mode": "5K",
+        "ez": {
+          "level": 2,
+          "combo": 178
+        },
+        "nm": {
+          "level": 4,
+          "combo": 338
+        },
+        "hd": {
+          "level": 7,
+          "combo": 606
+        }
+      },
+      {
+        "mode": "6K",
+        "ez": {
+          "level": 2,
+          "combo": 178
+        },
+        "nm": {
+          "level": 4,
+          "combo": 338
+        },
+        "hd": {
+          "level": 7,
+          "combo": 606
+        }
+      }
+    ],
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1262.mp3"
+  },
+  {
+    "id": 1263,
+    "name": "眉飞色舞",
+    "artist": "郑秀文",
+    "album": "时代余音Vol.2",
+    "albumId": "206",
+    "albumDate": "2026-08-11",
+    "bpm": 140.0,
+    "duration": "01:54",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 4,
+          "combo": 355
+        },
+        "nm": {
+          "level": 7,
+          "combo": 687
+        },
+        "hd": {
+          "level": 10,
+          "combo": 1106
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1263.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1263.mp3"
+  },
+  {
+    "id": 1264,
+    "name": "演",
+    "artist": "ChiliChil feat.三无Marblue",
+    "album": "ChiliChill  Vol.2",
+    "albumId": "207",
+    "albumDate": "2026-08-15",
+    "bpm": 130.0,
+    "duration": "02:31",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 7,
+          "combo": 1246
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1264.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1264.mp3"
+  },
+  {
+    "id": 1265,
+    "name": "啊！美丽卡洛",
+    "artist": "ChiliChill",
+    "album": "ChiliChill  Vol.2",
+    "albumId": "207",
+    "albumDate": "2026-08-15",
+    "bpm": 108.0,
+    "duration": "02:47",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 7,
+          "combo": 1423
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1265.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1265.mp3"
+  },
+  {
+    "id": 1266,
+    "name": "下等马",
+    "artist": "ChiliChili feat.洛天依",
+    "nicknames": [
+      "Vocaloid"
+    ],
+    "artistNick": "术力口",
+    "album": "ChiliChill  Vol.2",
+    "albumId": "207",
+    "albumDate": "2026-08-15",
+    "bpm": 105.0,
+    "duration": "01:44",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 8,
+          "combo": 793
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1266.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1266.mp3"
+  },
+  {
+    "id": 1267,
+    "name": "屑屑",
+    "artist": "ChiliChill",
+    "album": "ChiliChill  Vol.2",
+    "albumId": "207",
+    "albumDate": "2026-08-15",
+    "bpm": 120.0,
+    "duration": "01:52",
+    "charters": [
+      "CreamTea"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 9,
+          "combo": 992
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1267.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1267.mp3"
+  },
+  {
+    "id": 1268,
+    "name": "社畜烧酒",
+    "artist": "ChiliChill",
+    "album": "ChiliChill  Vol.2",
+    "albumId": "207",
+    "albumDate": "2026-08-15",
+    "bpm": 138.0,
+    "duration": "03:50",
+    "charters": [
+      "内置视频"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 9,
+          "combo": 1580
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1268.jpg",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1268.mp3"
   }
 ]
