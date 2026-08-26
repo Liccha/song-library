@@ -28453,9 +28453,11 @@
     "id": 1007,
     "name": "Believe",
     "artist": "Folder5",
-    "albumDate": "B2026-02-10",
+    "album": "次元音符Vol.6",
+    "albumId": "208",
+    "albumDate": "2026-08-25",
     "bpm": 155.0,
-    "duration": "01:44",
+    "duration": "01:45",
     "charters": [
       "Bassor"
     ],
@@ -35263,5 +35265,101 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1268.jpg?v=100c23c0ef66e3be",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1268.mp3?v=c6cde77e9b5de2cb"
+  },
+  {
+    "id": 1269,
+    "name": "コネクト",
+    "artist": "ClariS",
+    "album": "次元音符Vol.6",
+    "albumId": "208",
+    "albumDate": "2026-08-25",
+    "bpm": 175.0,
+    "duration": "02:06",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 8,
+          "combo": 1648
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1269.jpg?v=11164652ec0ebe8a",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1269.mp3?v=0a8c1fd4d38ced20"
+  },
+  {
+    "id": 1270,
+    "name": "Hacking to the Gate",
+    "artist": "伊藤香奈子",
+    "album": "次元音符Vol.6",
+    "albumId": "208",
+    "albumDate": "2026-08-25",
+    "bpm": 161.0,
+    "duration": "02:47",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 8,
+          "combo": 1929
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1270.jpg?v=0eec4a02b0b70df7",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1270.mp3?v=c5fd2857fa5d9ea0"
+  },
+  {
+    "id": 1271,
+    "name": "oath sign",
+    "artist": "LiSA",
+    "album": "次元音符Vol.6",
+    "albumId": "208",
+    "albumDate": "2026-08-25",
+    "bpm": 152.0,
+    "duration": "02:56",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 8,
+          "combo": 1930
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1271.jpg?v=2675c12d9d990738",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1271.mp3?v=292b10879e65bf58"
+  },
+  {
+    "id": 1272,
+    "name": "デート・ア・ライブ",
+    "artist": "sweet ARMS",
+    "album": "次元音符Vol.6",
+    "albumId": "208",
+    "albumDate": "2026-08-25",
+    "bpm": 178.0,
+    "duration": "01:55",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 9,
+          "combo": 1464
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1272.jpg?v=fa05d48dce67a89a",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1272.mp3?v=1eaea470d74cc318"
   }
 ]
