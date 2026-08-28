@@ -28,6 +28,7 @@ from pathlib import Path
 
 PLACEHOLDER = "__PUBLIC_BASE__"
 DEFAULT_WORKERS = 6
+PUBLISHED_ASSET_INDEX = "data/published-assets-v1.json"
 
 
 def sha256_bytes(value: bytes) -> str:
@@ -128,12 +129,60 @@ class OssClient:
     def exists(self, object_key: str) -> bool:
         return self.request("HEAD", object_key, allow_not_found=True) is not None
 
+    def get(self, object_key: str, allow_not_found: bool = False) -> bytes | None:
+        return self.request("GET", object_key, allow_not_found=allow_not_found)
+
     def put(self, object_key: str, body: bytes, content_type: str, cache_control: str, digest: str) -> None:
         self.request("PUT", object_key, body, content_type, cache_control, digest)
 
 
 def content_type_for(item: dict) -> str:
     return "image/webp" if item["type"] == "cover" else "audio/mpeg"
+
+
+def resolve_published_keys(
+    client: OssClient,
+    object_keys: list[str],
+    workers: int = DEFAULT_WORKERS,
+    status: dict[str, bool] | None = None,
+) -> set[str]:
+    """Load one compact cloud index; perform the legacy HEAD scan only once.
+
+    Content-addressed asset keys are immutable and this publisher has no delete
+    permission. Therefore an index written after all uploads complete is a safe
+    existence cache. A missing or malformed index falls back to the old check
+    and is replaced at the end of the successful run.
+    """
+    expected = set(object_keys)
+    body = client.get(PUBLISHED_ASSET_INDEX, allow_not_found=True)
+    if body is not None:
+        try:
+            value = json.loads(body.decode("utf-8"))
+            keys = value.get("keys") if isinstance(value, dict) and value.get("schema") == 1 else None
+            if isinstance(keys, list) and all(isinstance(key, str) for key in keys):
+                if status is not None:
+                    status["indexLoaded"] = True
+                return expected.intersection(keys)
+        except (UnicodeDecodeError, json.JSONDecodeError):
+            pass
+
+    if status is not None:
+        status["indexLoaded"] = False
+    existing: set[str] = set()
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, workers)) as pool:
+        futures = {pool.submit(client.exists, key): key for key in object_keys}
+        for future in concurrent.futures.as_completed(futures):
+            if future.result():
+                existing.add(futures[future])
+    return existing
+
+
+def published_asset_index_body(object_keys: list[str]) -> bytes:
+    return json.dumps(
+        {"schema": 1, "keys": sorted(set(object_keys))},
+        ensure_ascii=False,
+        separators=(",", ":"),
+    ).encode("utf-8")
 
 
 def main() -> int:
@@ -220,9 +269,14 @@ def main() -> int:
     uploaded = 0
     skipped = 0
     failures: list[str] = []
+    asset_keys = [str(item["objectKey"]) for item in assets]
+    index_status: dict[str, bool] = {}
+    published_keys = resolve_published_keys(client, asset_keys, args.workers, index_status)
 
     def publish_asset(item: dict) -> str:
         object_key = str(item["objectKey"])
+        if object_key in published_keys:
+            return "skipped"
         local = build / ("covers" if item["type"] == "cover" else "previews") / str(item["output"])
         if not local.is_file():
             raise RuntimeError(f"missing local output: {local.name}")
@@ -230,8 +284,6 @@ def main() -> int:
         digest = sha256_bytes(body)
         if digest != item["outputSha256"] or len(body) != int(item["outputBytes"]):
             raise RuntimeError(f"local output changed after validation: {local.name}")
-        if client.exists(object_key):
-            return "skipped"
         for attempt in range(3):
             try:
                 client.put(object_key, body, content_type_for(item), "public,max-age=31536000,immutable", digest)
@@ -262,6 +314,16 @@ def main() -> int:
         atomic_json(build / "publish-report.json", report)
         print(json.dumps(report, ensure_ascii=False, indent=2))
         return 1
+
+    if uploaded or not index_status.get("indexLoaded", False):
+        asset_index_body = published_asset_index_body(asset_keys)
+        client.put(
+            PUBLISHED_ASSET_INDEX,
+            asset_index_body,
+            "application/json; charset=utf-8",
+            "no-store",
+            sha256_bytes(asset_index_body),
+        )
 
     if args.assets_only:
         report = {
