@@ -29,6 +29,8 @@ from pathlib import Path
 PLACEHOLDER = "__PUBLIC_BASE__"
 DEFAULT_WORKERS = 6
 PUBLISHED_ASSET_INDEX = "data/published-assets-v1.json"
+MUTABLE_INDEX_MAX_AGE_SECONDS = 3600
+RELEASE_POINTER_MAX_AGE_SECONDS = 60
 
 
 def sha256_bytes(value: bytes) -> str:
@@ -354,7 +356,13 @@ def main() -> int:
     release_key = f"data/releases/songs-{release_hash[:16]}.json"
     client.put(release_key, songs_body, "application/json; charset=utf-8", "public,max-age=31536000,immutable", release_hash)
     # Atomic switch: the mutable index is the final upload in a successful run.
-    client.put("data/songs.json", songs_body, "application/json; charset=utf-8", "public,max-age=60,stale-while-revalidate=86400", release_hash)
+    client.put(
+        "data/songs.json",
+        songs_body,
+        "application/json; charset=utf-8",
+        f"public,max-age={MUTABLE_INDEX_MAX_AGE_SECONDS},stale-while-revalidate=86400",
+        release_hash,
+    )
     state = {
         "schema": 1,
         "publishedAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
@@ -364,7 +372,13 @@ def main() -> int:
         "bytes": total_bytes,
     }
     state_body = json.dumps(state, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
-    client.put("data/publish-state.json", state_body, "application/json; charset=utf-8", "no-store", sha256_bytes(state_body))
+    client.put(
+        "data/publish-state.json",
+        state_body,
+        "application/json; charset=utf-8",
+        f"public,max-age={RELEASE_POINTER_MAX_AGE_SECONDS},stale-while-revalidate=3600",
+        sha256_bytes(state_body),
+    )
     report = {"ready": True, "uploaded": uploaded, "skipped": skipped, **state, "publicBase": public_base}
     atomic_json(build / "publish-report.json", report)
     print(json.dumps(report, ensure_ascii=False, indent=2))

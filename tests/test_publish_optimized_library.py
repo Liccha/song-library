@@ -30,6 +30,12 @@ class FakeClient:
 
 
 class PublishedAssetIndexTest(unittest.TestCase):
+    def test_mutable_compatibility_index_is_not_refetched_every_minute(self):
+        self.assertGreaterEqual(MODULE.MUTABLE_INDEX_MAX_AGE_SECONDS, 3600)
+
+    def test_release_pointer_stays_small_and_fresh(self):
+        self.assertLessEqual(MODULE.RELEASE_POINTER_MAX_AGE_SECONDS, 300)
+
     def test_cloud_index_replaces_per_asset_head_scan(self):
         keys = [f"assets/covers/{index}.webp" for index in range(2500)]
         client = FakeClient({"schema": 1, "keys": keys})
