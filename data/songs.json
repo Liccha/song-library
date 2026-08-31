@@ -34909,6 +34909,8 @@
     "id": 1256,
     "name": "飞入童话",
     "artist": "凌云归故里",
+    "album": "诸星恋曲",
+    "albumId": "210",
     "albumDate": "2026-08-01",
     "bpm": 157.0,
     "duration": "01:46",
@@ -35360,5 +35362,167 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1272.jpg?v=fa05d48dce67a89a",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1272.mp3?v=1eaea470d74cc318"
+  },
+  {
+    "id": 1273,
+    "name": "I Want You",
+    "artist": "Lin-G",
+    "album": "DJMAX Vol.2",
+    "albumId": "209",
+    "albumDate": "2026-08-29",
+    "bpm": 140.0,
+    "duration": "01:49",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 8,
+          "combo": 1141
+        }
+      }
+    ]
+  },
+  {
+    "id": 1274,
+    "name": "Thor",
+    "artist": "Xeon",
+    "album": "DJMAX Vol.2",
+    "albumId": "209",
+    "albumDate": "2026-08-29",
+    "bpm": 147.0,
+    "duration": "01:51",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 10,
+          "combo": 933
+        }
+      }
+    ]
+  },
+  {
+    "id": 1275,
+    "name": "ALiCE",
+    "artist": "seibin",
+    "album": "DJMAX Vol.2",
+    "albumId": "209",
+    "albumDate": "2026-08-29",
+    "bpm": 145.0,
+    "duration": "02:31",
+    "charters": [
+      "神馬 a.k.a asdwadsxc、凌云归故里"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 4,
+          "combo": 906
+        },
+        "nm": {
+          "level": 8,
+          "combo": 1322
+        },
+        "hd": {
+          "level": 10,
+          "combo": 2167
+        }
+      }
+    ]
+  },
+  {
+    "id": 1276,
+    "name": "Airwave",
+    "artist": "ReX",
+    "album": "DJMAX Vol.2",
+    "albumId": "209",
+    "albumDate": "2026-08-29",
+    "bpm": 150.0,
+    "duration": "02:37",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 11,
+          "combo": 1446
+        }
+      }
+    ]
+  },
+  {
+    "id": 1277,
+    "name": "!!New Game Start!!",
+    "artist": "Teikyou",
+    "album": "DJMAX Vol.2",
+    "albumId": "209",
+    "albumDate": "2026-08-29",
+    "bpm": 200.0,
+    "duration": "02:06",
+    "charters": [
+      "Bassor"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 13,
+          "combo": 1793
+        }
+      }
+    ]
+  },
+  {
+    "id": 1278,
+    "name": "DIE IN",
+    "artist": "TAK × Sobrem",
+    "album": "DJMAX Vol.2",
+    "albumId": "209",
+    "albumDate": "2026-08-29",
+    "bpm": 0,
+    "duration": "02:32",
+    "charters": [
+      "Bassor"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "mx": {
+          "level": 14,
+          "combo": 2538
+        }
+      }
+    ]
+  },
+  {
+    "id": 1279,
+    "name": "Love♡Vacation",
+    "artist": "松下/nayuta (葉月なの)",
+    "album": "诸星恋曲",
+    "albumId": "210",
+    "albumDate": "--",
+    "bpm": 172.0,
+    "duration": "01:39",
+    "charters": [
+      "Q仔糖"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 9,
+          "combo": 1284
+        }
+      }
+    ]
   }
 ]
