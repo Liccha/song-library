@@ -27,6 +27,7 @@ def run(label: str, command: list[str], cwd: Path, timeout: int) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--skip-mobile-cloud", action="store_true")
     parser.add_argument("--skip-sync", action="store_true")
     parser.add_argument("--skip-cloud", action="store_true")
     parser.add_argument("--skip-github", action="store_true")
@@ -36,6 +37,16 @@ def main() -> int:
     library = tools.parent
     python = sys.executable
     started = time.time()
+
+    cloud_hydrator = library.parent / "tools" / "sync_mobile_cloud_to_local.py"
+    if not args.skip_mobile_cloud and cloud_hydrator.is_file():
+        if run("mobile-cloud", [python, str(cloud_hydrator)], library.parent, 1800) != 0:
+            print("[mobile-cloud] hydration failed; the existing public release remains live", file=sys.stderr)
+            return 1
+
+    if run("media-preflight", [python, str(tools / "source_asset_preflight.py")], library, 120) != 0:
+        print("[media-preflight] managed media is incomplete; publication aborted", file=sys.stderr)
+        return 1
 
     if not args.skip_sync and run("source", [python, "sync.py"], library, 600) != 0:
         return 1

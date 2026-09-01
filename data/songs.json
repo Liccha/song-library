@@ -8432,6 +8432,9 @@
     "id": 292,
     "name": "广寒宫",
     "artist": "丸子哟",
+    "album": "国韵古风",
+    "albumId": "215",
+    "albumDate": "2026-09-30",
     "bpm": 106.0,
     "duration": "02:22",
     "charters": [
@@ -13166,6 +13169,9 @@
     "id": 457,
     "name": "寄明月",
     "artist": "SING女团",
+    "album": "国韵古风",
+    "albumId": "215",
+    "albumDate": "2026-09-30",
     "bpm": 140.0,
     "duration": "02:27",
     "charters": [
@@ -20182,7 +20188,10 @@
     "id": 697,
     "name": "免我蹉跎苦",
     "artist": "黄龄",
-    "bpm": 130.5,
+    "album": "国韵古风",
+    "albumId": "215",
+    "albumDate": "2026-09-30",
+    "bpm": 261.0,
     "duration": "01:57",
     "charters": [
       "Q仔糖"
@@ -35742,7 +35751,9 @@
           "combo": 1461
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1287.jpg?v=e25d06221af9b14a",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1287.mp3?v=a0b2f172e21f5e2b"
   },
   {
     "id": 1288,
@@ -35764,7 +35775,9 @@
           "combo": 1141
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1288.jpg?v=612aa5c78425ff9c",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1288.mp3?v=67743250576c559d"
   },
   {
     "id": 1289,
@@ -35786,7 +35799,9 @@
           "combo": 1000
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1289.jpg?v=0136d620c12f5af3",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1289.mp3?v=37c10c31caf11893"
   },
   {
     "id": 1290,
@@ -35808,7 +35823,9 @@
           "combo": 1717
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1290.jpg?v=25ca34a3b99bec49",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1290.mp3?v=afa21b4550850d6b"
   },
   {
     "id": 1291,
@@ -35830,7 +35847,9 @@
           "combo": 2004
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1291.jpg?v=d49386b2e12666d8",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1291.mp3?v=661dbf97d720e4f6"
   },
   {
     "id": 1292,
@@ -35852,7 +35871,9 @@
           "combo": 1768
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1292.jpg?v=0f6b54a7684ff253",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1292.mp3?v=2286ca8bfe2a44ce"
   },
   {
     "id": 1293,
@@ -35874,7 +35895,9 @@
           "combo": 1682
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1293.jpg?v=18aa0b741949a2b9",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1293.mp3?v=1ffb40e886095993"
   },
   {
     "id": 1294,
@@ -35896,7 +35919,9 @@
           "combo": 2145
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1294.jpg?v=c42337f4a9f46571",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1294.mp3?v=5f673bb359fd085e"
   },
   {
     "id": 1295,
@@ -35918,7 +35943,9 @@
           "combo": 1844
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1295.jpg?v=14f8b7148f9cab88",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1295.mp3?v=d0cbbc982b984cfa"
   },
   {
     "id": 1296,
@@ -35948,7 +35975,9 @@
           "combo": 1660
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1296.jpg?v=b3920fb4c72ec67c",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1296.mp3?v=c66adae070072673"
   },
   {
     "id": 1297,
@@ -35970,7 +35999,9 @@
           "combo": 2276
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1297.jpg?v=e4b099b7ba2ceedb",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1297.mp3?v=72ac482e365e8583"
   },
   {
     "id": 1298,
@@ -36000,7 +36031,9 @@
           "combo": 1711
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1298.jpg?v=c9b8572140a0879e",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1298.mp3?v=b069316a58f1298b"
   },
   {
     "id": 1300,
@@ -36020,6 +36053,122 @@
           "combo": 2283
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1300.jpg?v=b7d3f87008a8b71c",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1300.mp3?v=bf1d02af255bf500"
+  },
+  {
+    "id": 1301,
+    "name": "U",
+    "artist": "電子機械聚合物 feat. 大市唱",
+    "albumDate": "2026-09-13",
+    "bpm": 98.0,
+    "duration": "01:18",
+    "charters": [
+      "泡沫奶茶"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 8,
+          "combo": 729
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1301.jpg?v=7cc777fd07cf23e9",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1301.mp3?v=0cf0404aa7a83d1c"
+  },
+  {
+    "id": 1302,
+    "name": "Cross Time",
+    "artist": "Brandy",
+    "albumDate": "2026-09-18",
+    "bpm": 160.0,
+    "duration": "02:31",
+    "charters": [
+      "Rovs"
+    ],
+    "charts": [
+      {
+        "mode": "5K",
+        "hd": {
+          "level": 0,
+          "combo": 2319
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1302.jpg?v=fd39078e19b05535",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1302.mp3?v=1dfc54a1900b7e03"
+  },
+  {
+    "id": 1303,
+    "name": "idontwant2go",
+    "artist": "Pudding_PD",
+    "albumDate": "2026-09-27",
+    "bpm": 1441.0,
+    "duration": "02:15",
+    "charters": [
+      "你已到达自制谱的尽头"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 5,
+          "combo": 514
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1303.jpg?v=236b9310bd490603",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1303.mp3?v=9d16e9fd4d203c18"
+  },
+  {
+    "id": 1304,
+    "name": "辞九门回忆",
+    "artist": "邓寓君(等什么君)",
+    "album": "国韵古风",
+    "albumId": "215",
+    "albumDate": "2026-09-30",
+    "bpm": 72.0,
+    "duration": "02:12",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 6,
+          "combo": 583
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1304.jpg?v=2a4853c1bc5edd96",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1304.mp3?v=a116ef0907fc7526"
+  },
+  {
+    "id": 1305,
+    "name": "帝都",
+    "artist": "萌萌哒天团",
+    "album": "国韵古风",
+    "albumId": "215",
+    "albumDate": "2026-09-30",
+    "bpm": 100.0,
+    "duration": "01:38",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 7,
+          "combo": 625
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1305.jpg?v=1cf31164a38acb07",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1305.mp3?v=36c461ec038ecc62"
   }
 ]
