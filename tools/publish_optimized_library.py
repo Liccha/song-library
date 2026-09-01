@@ -60,7 +60,15 @@ def load_properties(path: Path) -> dict[str, str]:
 
 
 class OssClient:
-    def __init__(self, region: str, bucket: str, access_id: str, secret: str, endpoint: str = "") -> None:
+    def __init__(
+        self,
+        region: str,
+        bucket: str,
+        access_id: str,
+        secret: str,
+        endpoint: str = "",
+        timeout_seconds: int = 60,
+    ) -> None:
         region = region.strip()
         bucket = bucket.strip()
         if not re.fullmatch(r"[a-z0-9][a-z0-9-]{1,61}[a-z0-9]", bucket):
@@ -73,6 +81,7 @@ class OssClient:
         endpoint = endpoint.strip().removeprefix("https://").removeprefix("http://").rstrip("/")
         self.endpoint = endpoint or f"oss-{region}.aliyuncs.com"
         self.host = f"{bucket}.{self.endpoint}"
+        self.timeout_seconds = max(10, int(timeout_seconds))
 
     def _authorization(self, method: str, object_key: str, headers: dict[str, str]) -> str:
         lower = {key.lower(): " ".join(str(value).strip().split()) for key, value in headers.items()}
@@ -117,7 +126,7 @@ class OssClient:
             f"https://{self.host}/{quoted}", data=body, headers=headers, method=method
         )
         try:
-            with urllib.request.urlopen(request, timeout=60) as response:
+            with urllib.request.urlopen(request, timeout=self.timeout_seconds) as response:
                 return response.read()
         except urllib.error.HTTPError as exc:
             if allow_not_found and exc.code == 404:
