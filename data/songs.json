@@ -24483,6 +24483,13 @@
           "level": 5,
           "combo": 1296
         }
+      },
+      {
+        "mode": "7K",
+        "hd": {
+          "level": 5,
+          "combo": 1296
+        }
       }
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/859.png?v=34fd08247070fbef",
@@ -28705,6 +28712,8 @@
     "id": 1017,
     "name": "弊社御社",
     "artist": "ヒゲドライバー",
+    "album": "工作日挑战 Vol.17",
+    "albumId": "213",
     "albumDate": "B2026-02-27",
     "bpm": 180.0,
     "duration": "03:17",
@@ -29431,6 +29440,8 @@
     "id": 1045,
     "name": "Void",
     "artist": "celtix",
+    "album": "动感节拍 Vol.11",
+    "albumId": "212",
     "albumDate": "2026-03-14",
     "bpm": 175.0,
     "duration": "03:06",
@@ -29465,6 +29476,9 @@
     "id": 1046,
     "name": "TTK (NAMV Remix)",
     "artist": "NAMV,Katali",
+    "album": "工作日挑战 Vol.17",
+    "albumId": "213",
+    "albumDate": "2026-09-17",
     "bpm": 150.0,
     "duration": "02:41",
     "charters": [
@@ -34857,6 +34871,8 @@
     "id": 1254,
     "name": "MONONOKE",
     "artist": "seatrus",
+    "album": "动感节拍 Vol.11",
+    "albumId": "212",
     "albumDate": "2026-08-01",
     "bpm": 175.0,
     "duration": "02:25",
@@ -34879,6 +34895,8 @@
     "id": 1255,
     "name": "Hesitation snow（初雪樱op Ver.)",
     "artist": "fripSide",
+    "album": "诸星恋曲",
+    "albumId": "211",
     "albumDate": "2026-08-01",
     "bpm": 135.0,
     "duration": "02:33",
@@ -34909,8 +34927,6 @@
     "id": 1256,
     "name": "飞入童话",
     "artist": "凌云归故里",
-    "album": "诸星恋曲",
-    "albumId": "210",
     "albumDate": "2026-08-01",
     "bpm": 157.0,
     "duration": "01:46",
@@ -35383,7 +35399,8 @@
           "combo": 1141
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1273.jpg?v=5754ab6232e104ed"
   },
   {
     "id": 1274,
@@ -35405,7 +35422,9 @@
           "combo": 933
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1274.jpg?v=f844482dc10a5e62",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1274.mp3?v=3fda15d49f3ec61e"
   },
   {
     "id": 1275,
@@ -35435,7 +35454,9 @@
           "combo": 2167
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1275.jpg?v=2438cc2c0721a87b",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1275.mp3?v=ed6f183a02a05d14"
   },
   {
     "id": 1276,
@@ -35457,7 +35478,9 @@
           "combo": 1446
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1276.jpg?v=58187a41d9e6b007",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1276.mp3?v=df9e53b1e15d551d"
   },
   {
     "id": 1277,
@@ -35479,7 +35502,9 @@
           "combo": 1793
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1277.jpg?v=c83eca1ffe7d8715",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1277.mp3?v=02bff2d730851be7"
   },
   {
     "id": 1278,
@@ -35501,15 +35526,17 @@
           "combo": 2538
         }
       }
-    ]
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1278.jpg?v=ab0a8e440406cc29",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1278.mp3?v=9bc98c5bcd339675"
   },
   {
     "id": 1279,
     "name": "Love♡Vacation",
     "artist": "松下/nayuta (葉月なの)",
     "album": "诸星恋曲",
-    "albumId": "210",
-    "albumDate": "--",
+    "albumId": "211",
+    "albumDate": "2026-09-03",
     "bpm": 172.0,
     "duration": "01:39",
     "charters": [
@@ -35521,6 +35548,476 @@
         "hd": {
           "level": 9,
           "combo": 1284
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1279.jpg?v=8fb5afd3ec0ecdad",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1279.mp3?v=566745395d726bfb"
+  },
+  {
+    "id": 1280,
+    "name": "Golden Mission（金辉恋曲四重奏OP ver.）",
+    "artist": "佐咲纱花",
+    "album": "诸星恋曲",
+    "albumId": "211",
+    "albumDate": "2026-09-03",
+    "bpm": 146.0,
+    "duration": "01:40",
+    "charters": [
+      "Q仔糖"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 9,
+          "combo": 1148
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1280.jpg?v=ed733d6b8f579d43",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1280.mp3?v=73009eea95a54108"
+  },
+  {
+    "id": 1281,
+    "name": "breaking light（AMBITIOUS MISSION OP）",
+    "artist": "佐藤アスカ",
+    "album": "诸星恋曲",
+    "albumId": "211",
+    "albumDate": "2026-09-03",
+    "bpm": 132.0,
+    "duration": "01:45",
+    "charters": [
+      "Q仔糖"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 8,
+          "combo": 1028
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1281.jpg?v=441d464fc7c92db3",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1281.mp3?v=aef93c179b526c40"
+  },
+  {
+    "id": 1282,
+    "name": "floral summer",
+    "artist": "fripSide",
+    "album": "诸星恋曲",
+    "albumId": "211",
+    "albumDate": "2026-09-03",
+    "bpm": 146.0,
+    "duration": "01:52",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 7,
+          "combo": 1035
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1282.jpg?v=a642908f6d89065f",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1282.mp3?v=e8f7e84f10f7a9fb"
+  },
+  {
+    "id": 1283,
+    "name": "Pluripotency",
+    "artist": "Factal",
+    "album": "动感节拍 Vol.11",
+    "albumId": "212",
+    "albumDate": "2026-09-12",
+    "bpm": 174.0,
+    "duration": "02:13",
+    "charters": [
+      "Bassor"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "mx": {
+          "level": 13,
+          "combo": 2049
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1283.jpg?v=7b3e170c63e1981d",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1283.mp3?v=0e7b20523c184c5c"
+  },
+  {
+    "id": 1284,
+    "name": "ILLEGAL LEGACY",
+    "artist": "seatrus",
+    "album": "动感节拍 Vol.11",
+    "albumId": "212",
+    "albumDate": "2026-09-12",
+    "bpm": 180.0,
+    "duration": "02:20",
+    "charters": [
+      "Crux"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 2034
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1284.jpg?v=a16dd0411dbd7ad8",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1284.mp3?v=39c7a8dc1ebe9586"
+  },
+  {
+    "id": 1285,
+    "name": "骤雨の狭間",
+    "artist": "Silentroom",
+    "album": "动感节拍 Vol.11",
+    "albumId": "212",
+    "albumDate": "2026-09-12",
+    "bpm": 174.0,
+    "duration": "03:45",
+    "charters": [
+      "yoAke"
+    ],
+    "charts": [
+      {
+        "mode": "6K",
+        "mx": {
+          "level": 15,
+          "combo": 3611
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1285.jpg?v=bbf75700483c1c1c",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1285.mp3?v=a7a6a09dc01396db"
+  },
+  {
+    "id": 1286,
+    "name": "NEURO-CLOUD-9",
+    "artist": "かめりあ",
+    "album": "动感节拍 Vol.11",
+    "albumId": "212",
+    "albumDate": "2026-09-12",
+    "bpm": 172.0,
+    "duration": "04:55",
+    "charters": [
+      "x1u1u0233"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "mx": {
+          "level": 13,
+          "combo": 4383
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1286.jpg?v=74afae7b7001d670",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1286.mp3?v=a3753ac30ff80bc9"
+  },
+  {
+    "id": 1287,
+    "name": "[chromatite]",
+    "artist": "echo~parallax",
+    "album": "RM Style Event #8",
+    "albumId": "210",
+    "albumDate": "2026-09-01",
+    "bpm": 180.0,
+    "duration": "02:13",
+    "charters": [
+      "StarryNight01"
+    ],
+    "charts": [
+      {
+        "mode": "5K",
+        "nm": {
+          "level": 8,
+          "combo": 1461
+        }
+      }
+    ]
+  },
+  {
+    "id": 1288,
+    "name": "After The Ending",
+    "artist": "mmry",
+    "album": "RM Style Event #8",
+    "albumId": "210",
+    "albumDate": "2026-09-01",
+    "bpm": 100.0,
+    "duration": "02:01",
+    "charters": [
+      "AsuraZ"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 9,
+          "combo": 1141
+        }
+      }
+    ]
+  },
+  {
+    "id": 1289,
+    "name": "Friends",
+    "artist": "Hyper Potions",
+    "album": "RM Style Event #8",
+    "albumId": "210",
+    "albumDate": "2026-09-01",
+    "bpm": 140.0,
+    "duration": "01:38",
+    "charters": [
+      "神馬 a.k.a asdwadsxc"
+    ],
+    "charts": [
+      {
+        "mode": "5K",
+        "hd": {
+          "level": 9,
+          "combo": 1000
+        }
+      }
+    ]
+  },
+  {
+    "id": 1290,
+    "name": "Lullaby of Flame",
+    "artist": "DDRKirby(ISQ)",
+    "album": "RM Style Event #8",
+    "albumId": "210",
+    "albumDate": "2026-09-01",
+    "bpm": 155.0,
+    "duration": "02:37",
+    "charters": [
+      "AnChenOwO"
+    ],
+    "charts": [
+      {
+        "mode": "6K",
+        "hd": {
+          "level": 10,
+          "combo": 1717
+        }
+      }
+    ]
+  },
+  {
+    "id": 1291,
+    "name": "シャッキーーン！！",
+    "artist": "黒魔",
+    "album": "RM Style Event #8",
+    "albumId": "210",
+    "albumDate": "2026-09-01",
+    "bpm": 165.0,
+    "duration": "02:36",
+    "charters": [
+      "ewood"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 11,
+          "combo": 2004
+        }
+      }
+    ]
+  },
+  {
+    "id": 1292,
+    "name": "8bit Voyager",
+    "artist": "Lime",
+    "album": "RM Style Event #8",
+    "albumId": "210",
+    "albumDate": "2026-09-01",
+    "bpm": 182.0,
+    "duration": "02:19",
+    "charters": [
+      "无解"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 1768
+        }
+      }
+    ]
+  },
+  {
+    "id": 1293,
+    "name": "MILKYBLUE ADVANCE",
+    "artist": "Aoi",
+    "album": "RM Style Event #8",
+    "albumId": "210",
+    "albumDate": "2026-09-01",
+    "bpm": 150.0,
+    "duration": "02:04",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "5K",
+        "mx": {
+          "level": 13,
+          "combo": 1682
+        }
+      }
+    ]
+  },
+  {
+    "id": 1294,
+    "name": "Tower of Heaven",
+    "artist": "HyuN",
+    "album": "RM Style Event #8",
+    "albumId": "210",
+    "albumDate": "2026-09-01",
+    "bpm": 175.0,
+    "duration": "03:08",
+    "charters": [
+      "凌云归故里"
+    ],
+    "charts": [
+      {
+        "mode": "6K",
+        "hd": {
+          "level": 13,
+          "combo": 2145
+        }
+      }
+    ]
+  },
+  {
+    "id": 1295,
+    "name": "Miracle 5ympho X",
+    "artist": "USAO",
+    "album": "工作日挑战 Vol.17",
+    "albumId": "213",
+    "albumDate": "2026-09-17",
+    "bpm": 210.0,
+    "duration": "02:05",
+    "charters": [
+      "J.R"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 10,
+          "combo": 1844
+        }
+      }
+    ]
+  },
+  {
+    "id": 1296,
+    "name": "Kontrol Line",
+    "artist": "Yooh",
+    "album": "工作日挑战 Vol.17",
+    "albumId": "213",
+    "albumDate": "2026-09-17",
+    "bpm": 180.0,
+    "duration": "02:13",
+    "charters": [
+      "Bassor"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 5,
+          "combo": 962
+        },
+        "nm": {
+          "level": 8,
+          "combo": 1455
+        },
+        "hd": {
+          "level": 11,
+          "combo": 1660
+        }
+      }
+    ]
+  },
+  {
+    "id": 1297,
+    "name": "Numb",
+    "artist": "Juggernaut.",
+    "album": "工作日挑战 Vol.17",
+    "albumId": "213",
+    "albumDate": "2026-09-17",
+    "bpm": 175.0,
+    "duration": "02:56",
+    "charters": [
+      "Bassor vs. 凌云归故里"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 2276
+        }
+      }
+    ]
+  },
+  {
+    "id": 1298,
+    "name": "c.s.q.n. (2026 Remaster)",
+    "artist": "Aoi",
+    "album": "工作日挑战 Vol.17",
+    "albumId": "213",
+    "albumDate": "2026-09-17",
+    "bpm": 174.0,
+    "duration": "02:03",
+    "charters": [
+      "Bassor"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 5,
+          "combo": 809
+        },
+        "nm": {
+          "level": 10,
+          "combo": 1337
+        },
+        "hd": {
+          "level": 13,
+          "combo": 1711
+        }
+      }
+    ]
+  },
+  {
+    "id": 1300,
+    "name": "MIRINAE",
+    "artist": "TAK / Zekk",
+    "albumDate": "2026-09-04",
+    "bpm": 180.0,
+    "duration": "02:40",
+    "charters": [
+      "Bassor"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 2283
         }
       }
     ]

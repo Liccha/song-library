@@ -20,6 +20,8 @@ ROOT = Path(__file__).resolve().parents[2]
 DATABASE = ROOT / "song_data.db"
 CONFIG = ROOT / "data" / "cloud-announcement.properties"
 MAX_RESPONSE = 256 * 1024
+DOMESTIC_API_HOST = "songbotstic-api-cwpfgfkkpj.cn-beijing.fcapp.run"
+TRUSTED_API_HOSTS = {DOMESTIC_API_HOST, "editor.teacharm.moe", "bot-editor.vercel.app"}
 
 
 def properties(path: Path) -> dict[str, str]:
@@ -35,9 +37,9 @@ def properties(path: Path) -> dict[str, str]:
 
 def endpoint(api: str) -> str:
     parsed = urllib.parse.urlparse(api)
-    if parsed.scheme != "https" or parsed.hostname not in {"editor.teacharm.moe", "bot-editor.vercel.app"}:
+    if parsed.scheme != "https" or parsed.hostname not in TRUSTED_API_HOSTS:
         raise RuntimeError("cloud API origin is not trusted")
-    return urllib.parse.urlunparse(("https", parsed.netloc, "/api/mobile-data", "", "", ""))
+    return urllib.parse.urlunparse(("https", DOMESTIC_API_HOST, "/api/mobile-data", "", "", ""))
 
 
 def table(connection: sqlite3.Connection, name: str) -> dict[str, object]:
