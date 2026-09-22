@@ -35389,29 +35389,6 @@
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1272.mp3?v=1eaea470d74cc318"
   },
   {
-    "id": 1273,
-    "name": "I Want You",
-    "artist": "Lin-G",
-    "album": "DJMAX Vol.2",
-    "albumId": "209",
-    "albumDate": "2026-08-29",
-    "bpm": 140.0,
-    "duration": "01:49",
-    "charters": [
-      "Liccha"
-    ],
-    "charts": [
-      {
-        "mode": "4K",
-        "hd": {
-          "level": 8,
-          "combo": 1141
-        }
-      }
-    ],
-    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1273.jpg?v=5754ab6232e104ed"
-  },
-  {
     "id": 1274,
     "name": "Thor",
     "artist": "Xeon",
