@@ -36242,5 +36242,53 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1307.jpg?v=f37d7976700c1ebf",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1307.mp3?v=2a30536eca17fe5f"
+  },
+  {
+    "id": 1308,
+    "name": "如愿",
+    "artist": "王菲",
+    "album": "苗苗",
+    "albumId": "214",
+    "albumDate": "2026-09-26",
+    "bpm": 133.0,
+    "duration": "04:25",
+    "charters": [
+      "Rovlas"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 8,
+          "combo": 2856
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1308.jpg?v=39e8ed3262b92f4a",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1308.mp3?v=15ccf833732f2210"
+  },
+  {
+    "id": 1309,
+    "name": "花儿纳吉",
+    "artist": "三无Marblue",
+    "album": "苗苗",
+    "albumId": "214",
+    "albumDate": "2026-09-26",
+    "bpm": 110.0,
+    "duration": "03:55",
+    "charters": [
+      "RhythmGo"
+    ],
+    "charts": [
+      {
+        "mode": "5K",
+        "hd": {
+          "level": 9,
+          "combo": 2245
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1309.jpg?v=b2b8425ee45547c8",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1309.mp3?v=40ac0438f4abeddf"
   }
 ]
