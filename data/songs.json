@@ -36036,6 +36036,30 @@
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1298.mp3?v=b069316a58f1298b"
   },
   {
+    "id": 1299,
+    "name": "我和我的祖国",
+    "artist": "王菲",
+    "album": "苗苗",
+    "albumId": "214",
+    "albumDate": "2026-09-26",
+    "bpm": 82.0,
+    "duration": "00:04",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 6,
+          "combo": 607
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1299.jpg?v=622637bc61cc63ef",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1299.mp3?v=9f6ba80e4ff72072"
+  },
+  {
     "id": 1300,
     "name": "MIRINAE",
     "artist": "TAK / Zekk",
@@ -36170,5 +36194,29 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1305.jpg?v=1cf31164a38acb07",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1305.mp3?v=36c461ec038ecc62"
+  },
+  {
+    "id": 1306,
+    "name": "我在那角落患过伤风",
+    "artist": "冯曦舒",
+    "album": "苗苗",
+    "albumId": "214",
+    "albumDate": "2026-09-26",
+    "bpm": 132.0,
+    "duration": "01:56",
+    "charters": [
+      "沄虓"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 7,
+          "combo": 817
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1306.jpg?v=c8e67c9704733fe4",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1306.mp3?v=54b2217dcb5acc01"
   }
 ]
