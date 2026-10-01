@@ -36290,5 +36290,29 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1309.jpg?v=b2b8425ee45547c8",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1309.mp3?v=40ac0438f4abeddf"
+  },
+  {
+    "id": 1310,
+    "name": "Xhroria",
+    "artist": "An",
+    "album": "RM Style Event: 星芒回响",
+    "albumId": "215",
+    "albumDate": "2026-10-01",
+    "bpm": 200.0,
+    "duration": "02:00",
+    "charters": [
+      "AsuraZ"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "nm": {
+          "level": 10,
+          "combo": 1239
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1310.jpg?v=f3c6b1f9b322754a",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1310.mp3?v=9197e2183a6f2845"
   }
 ]
