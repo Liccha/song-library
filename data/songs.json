@@ -36314,5 +36314,149 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1310.jpg?v=f3c6b1f9b322754a",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1310.mp3?v=9197e2183a6f2845"
+  },
+  {
+    "id": 1311,
+    "name": "cryout",
+    "artist": "Ju_E",
+    "album": "RM Style Event: 星芒回响",
+    "albumId": "215",
+    "albumDate": "2026-10-01",
+    "bpm": 180.0,
+    "duration": "02:04",
+    "charters": [
+      "无解"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 11,
+          "combo": 1429
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1311.jpg?v=62b877d3a0c569b6",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1311.mp3?v=c258d6f4530cd94f"
+  },
+  {
+    "id": 1312,
+    "name": "Khronostasis Katharsis",
+    "artist": "halv",
+    "album": "RM Style Event: 星芒回响",
+    "albumId": "215",
+    "albumDate": "2026-10-01",
+    "bpm": 188.0,
+    "duration": "02:14",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 11,
+          "combo": 1448
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1312.jpg?v=ebc5a626d4e6b83c",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1312.mp3?v=5d9a389faa215e47"
+  },
+  {
+    "id": 1313,
+    "name": "Liminalcave",
+    "artist": "seatrus",
+    "album": "RM Style Event: 星芒回响",
+    "albumId": "215",
+    "albumDate": "2026-10-01",
+    "bpm": 177.0,
+    "duration": "02:02",
+    "charters": [
+      "AnChenOwO"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 11,
+          "combo": 1312
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1313.jpg?v=2b930047975304c3",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1313.mp3?v=e12c6e2db8c096fc"
+  },
+  {
+    "id": 1314,
+    "name": "Gardens Under A Spring Sky",
+    "artist": "Fractal Dreamers",
+    "album": "RM Style Event: 星芒回响",
+    "albumId": "215",
+    "albumDate": "2026-10-01",
+    "bpm": 195.0,
+    "duration": "02:23",
+    "charters": [
+      "FakeOx"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 1545
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1314.jpg?v=7236b69db6a1224d",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1314.mp3?v=4acc52f0093f07e3"
+  },
+  {
+    "id": 1315,
+    "name": "Gluon",
+    "artist": "CHUBAY",
+    "album": "RM Style Event: 星芒回响",
+    "albumId": "215",
+    "albumDate": "2026-10-01",
+    "bpm": 202.0,
+    "duration": "03:11",
+    "charters": [
+      "凌云归故里"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 2248
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1315.jpg?v=b06d4c056e717ebb",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1315.mp3?v=db960b7b176eab32"
+  },
+  {
+    "id": 1316,
+    "name": "Glimmering",
+    "artist": "ARForest",
+    "album": "RM Style Event: 星芒回响",
+    "albumId": "215",
+    "albumDate": "2026-10-01",
+    "bpm": 205.0,
+    "duration": "02:23",
+    "charters": [
+      "Bassor"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 13,
+          "combo": 2303
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1316.jpg?v=2b6db989d7725a73",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1316.mp3?v=5d52e7d4a62fb38c"
   }
 ]
