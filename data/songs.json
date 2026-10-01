@@ -36301,7 +36301,7 @@
     "bpm": 200.0,
     "duration": "02:00",
     "charters": [
-      "AsuraZ"
+      "Asura夜语"
     ],
     "charts": [
       {
@@ -36458,5 +36458,29 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1316.jpg?v=2b6db989d7725a73",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1316.mp3?v=5d52e7d4a62fb38c"
+  },
+  {
+    "id": 1317,
+    "name": "朝焼けから始まるボクらの小さな旅",
+    "artist": "cosMo@bousouP",
+    "album": "RM Style Event: 星芒回响",
+    "albumId": "215",
+    "albumDate": "2026-10-01",
+    "bpm": 218.0,
+    "duration": "02:04",
+    "charters": [
+      "StarryNght01"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "mx": {
+          "level": 14,
+          "combo": 1725
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1317.jpg?v=8fe2718504c7aea4",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1317.mp3?v=f541b428bc79248a"
   }
 ]
