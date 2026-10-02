@@ -16130,21 +16130,43 @@
   {
     "id": 558,
     "name": "Red Zone",
-    "artist": "清水達也/前田尚紀",
-    "album": "超级电子乐Vol.3",
-    "albumId": "175",
+    "artist": "清水達也 / 前田尚紀",
+    "album": "超级电子乐Vol.4",
+    "albumId": "175,217",
     "albumDate": "2026-03-25",
     "bpm": 165.0,
     "duration": "01:49",
     "charters": [
-      "Rovlas"
+      "Rovs"
     ],
     "charts": [
       {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 1811
+        }
+      },
+      {
         "mode": "5K",
+        "ez": {
+          "level": 5,
+          "combo": 801
+        },
+        "nm": {
+          "level": 10,
+          "combo": 1387
+        },
         "hd": {
           "level": 12,
           "combo": 1847
+        }
+      },
+      {
+        "mode": "6K",
+        "hd": {
+          "level": 13,
+          "combo": 2193
         }
       }
     ],
