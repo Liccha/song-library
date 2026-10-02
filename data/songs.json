@@ -36482,5 +36482,28 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1317.jpg?v=8fe2718504c7aea4",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1317.mp3?v=f541b428bc79248a"
+  },
+  {
+    "id": 1318,
+    "name": "中国人会飞",
+    "artist": "Chalky Wong/揽佬SKAIISYOURGOD",
+    "albumId": "216",
+    "albumDate": "2026-10-03",
+    "bpm": 137.0,
+    "duration": "01:59",
+    "charters": [
+      "Are you Chinese? I can fly~"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 9,
+          "combo": 1084
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1318.jpg?v=21e64dd785bd2984",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1318.mp3?v=e4c9bac08e0a4894"
   }
 ]
