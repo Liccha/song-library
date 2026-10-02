@@ -36506,5 +36506,29 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1318.jpg?v=21e64dd785bd2984",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1318.mp3?v=e4c9bac08e0a4894"
+  },
+  {
+    "id": 1319,
+    "name": "MADE IN HEAVEN",
+    "artist": "G.K",
+    "album": "超级电子乐 Vol.4",
+    "albumId": "217",
+    "albumDate": "2026-10-03",
+    "bpm": 175.0,
+    "duration": "02:17",
+    "charters": [
+      "Rovs"
+    ],
+    "charts": [
+      {
+        "mode": "5K",
+        "hd": {
+          "level": 13,
+          "combo": 2039
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1319.jpg?v=5c304b869c9b0257",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1319.mp3?v=5e6022e84f395491"
   }
 ]
