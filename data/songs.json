@@ -36552,5 +36552,60 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1319.jpg?v=5c304b869c9b0257",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1319.mp3?v=5e6022e84f395491"
+  },
+  {
+    "id": 1320,
+    "name": "αterlβus (2025 Remaster)",
+    "artist": "Aoi",
+    "album": "超级电子乐 Vol.4",
+    "albumId": "217",
+    "albumDate": "2026-10-03",
+    "bpm": 202.0,
+    "duration": "02:01",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 14,
+          "combo": 1745
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1320.jpg?v=e754746b28f1b269",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1320.mp3?v=e8b0df20eb9e7257"
+  },
+  {
+    "id": 1321,
+    "name": "Quadruplicity",
+    "artist": "LucaProject vs. NeLiME",
+    "album": "超级电子乐 Vol.4",
+    "albumId": "217",
+    "albumDate": "2026-10-03",
+    "bpm": 157.0,
+    "duration": "02:29",
+    "charters": [
+      "Rovs、x1u1u0233"
+    ],
+    "charts": [
+      {
+        "mode": "5K",
+        "hd": {
+          "level": 13,
+          "combo": 2437
+        }
+      },
+      {
+        "mode": "6K",
+        "ez": {
+          "level": 14,
+          "combo": 2701
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1321.jpg?v=398635de09efbb04",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1321.mp3?v=1ab0e9d2d0e770b8"
   }
 ]
