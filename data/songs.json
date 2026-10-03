@@ -36391,6 +36391,9 @@
     "id": 1313,
     "name": "Liminalcave",
     "artist": "seatrus",
+    "nicknames": [
+      "XYC"
+    ],
     "album": "RM Style Event: 星芒回响",
     "albumId": "216",
     "albumDate": "2026-10-01",
@@ -36542,7 +36545,7 @@
     "bpm": 175.0,
     "duration": "02:17",
     "charters": [
-      "Rovs"
+      "Rovlas"
     ],
     "charts": [
       {
@@ -36590,7 +36593,7 @@
     "bpm": 157.0,
     "duration": "02:29",
     "charters": [
-      "Rovs、x1u1u0233"
+      "Rovlas、修罗"
     ],
     "charts": [
       {
