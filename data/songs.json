@@ -36624,7 +36624,7 @@
     "name": "ものふおびあ",
     "artist": "とりぴよ",
     "album": "喵音星途Vol.6",
-    "albumId": "217",
+    "albumId": "218",
     "albumDate": "2026-10-11",
     "bpm": 162.0,
     "duration": "02:50",
@@ -36642,5 +36642,29 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1322.jpg?v=1e0302de97c11ceb",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1322.mp3?v=9b62db8dcd6b0cd3"
+  },
+  {
+    "id": 1323,
+    "name": "Blackest Luxury Car",
+    "artist": "Chicala Lpis",
+    "album": "喵音星途Vol.6",
+    "albumId": "218",
+    "albumDate": "2026-10-11",
+    "bpm": 178.0,
+    "duration": "02:20",
+    "charters": [
+      "黑 色 高 级 车"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 11,
+          "combo": 1646
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1323.jpg?v=b66558b2d54cbd1b",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1323.mp3?v=145f145088d033c3"
   }
 ]
