@@ -36647,6 +36647,9 @@
     "id": 1323,
     "name": "Blackest Luxury Car",
     "artist": "Chicala Lpis",
+    "nicknames": [
+      "Furina"
+    ],
     "album": "喵音星途Vol.6",
     "albumId": "218",
     "albumDate": "2026-10-11",
@@ -36666,5 +36669,56 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1323.jpg?v=b66558b2d54cbd1b",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1323.mp3?v=145f145088d033c3"
+  },
+  {
+    "id": 1324,
+    "name": "PA☆PPA☆PANIC",
+    "artist": "Tanchiky",
+    "nicknames": [
+      "Liccha"
+    ],
+    "album": "喵音星途Vol.6",
+    "albumId": "218",
+    "albumDate": "2026-10-11",
+    "bpm": 165.0,
+    "duration": "02:11",
+    "charters": [
+      "PA☆PPA☆PARTY"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 1826
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1324.jpg?v=0b6f4af9a7e950d4",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1324.mp3?v=bfe4f576000fabc0"
+  },
+  {
+    "id": 1325,
+    "name": "Queen Aluett -女王アルエット-",
+    "artist": "LeaF",
+    "album": "喵音星途Vol.6",
+    "albumId": "218",
+    "albumDate": "2026-10-11",
+    "bpm": 212.0,
+    "duration": "02:28",
+    "charters": [
+      "Bassor"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 13,
+          "combo": 2242
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1325.jpg?v=50a7e05867c1b44e",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1325.mp3?v=274ba19c0dd4c95f"
   }
 ]
