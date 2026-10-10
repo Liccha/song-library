@@ -32014,6 +32014,8 @@
     "id": 1143,
     "name": "Frost Land",
     "artist": "Zris",
+    "album": "喵音星途Vol.6",
+    "albumId": "218",
     "albumDate": "2026-05-01",
     "bpm": 111.0,
     "duration": "02:10",
@@ -36616,5 +36618,29 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1321.jpg?v=398635de09efbb04",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1321.mp3?v=1ab0e9d2d0e770b8"
+  },
+  {
+    "id": 1322,
+    "name": "ものふおびあ",
+    "artist": "とりぴよ",
+    "album": "喵音星途Vol.6",
+    "albumId": "217",
+    "albumDate": "2026-10-11",
+    "bpm": 162.0,
+    "duration": "02:50",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 11,
+          "combo": 1941
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1322.jpg?v=1e0302de97c11ceb",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1322.mp3?v=9b62db8dcd6b0cd3"
   }
 ]
