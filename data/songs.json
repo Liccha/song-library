@@ -36722,36 +36722,6 @@
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1325.mp3?v=274ba19c0dd4c95f"
   },
   {
-    "id": 1326,
-    "name": "爱神巧克力进行时",
-    "artist": "弹跳的大球",
-    "albumDate": "2026-10-12",
-    "bpm": 140.0,
-    "duration": "02:23",
-    "charters": [
-      "J.R"
-    ],
-    "charts": [
-      {
-        "mode": "4K",
-        "ez": {
-          "level": 2,
-          "combo": 526
-        },
-        "nm": {
-          "level": 7,
-          "combo": 985
-        },
-        "hd": {
-          "level": 8,
-          "combo": 1889
-        }
-      }
-    ],
-    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1326.jpg?v=e890af02c35b6127",
-    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1326.mp3?v=f74eabdb92e66a76"
-  },
-  {
     "id": 1327,
     "name": "缄色症候",
     "artist": "ariiol",
