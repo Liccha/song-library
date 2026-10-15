@@ -36772,5 +36772,133 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1327.jpg?v=9050c630eb84e903",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1327.mp3?v=e9f27d1ddd1aa9f0"
+  },
+  {
+    "id": 1328,
+    "name": "アルミナ",
+    "artist": "Nightmare",
+    "album": "常驻谱面联动Vol.6",
+    "albumId": "219",
+    "albumDate": "2026-10-16",
+    "bpm": 185.0,
+    "duration": "02:04",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 3,
+          "combo": 695
+        },
+        "nm": {
+          "level": 6,
+          "combo": 661
+        },
+        "hd": {
+          "level": 9,
+          "combo": 1306
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1328.jpg?v=2cdaf3e5ac2dd73d",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1328.mp3?v=cc732c125f8cd75c"
+  },
+  {
+    "id": 1329,
+    "name": "Tales of Ginkgo",
+    "artist": "Zris",
+    "album": "常驻谱面联动Vol.6",
+    "albumId": "219",
+    "albumDate": "2026-10-16",
+    "bpm": 161.0,
+    "duration": "02:19",
+    "charters": [
+      "Furina a.k.a Focalors、神馬 a.k.a asdwadsxc"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 4,
+          "combo": 517
+        },
+        "nm": {
+          "level": 8,
+          "combo": 971
+        },
+        "hd": {
+          "level": 10,
+          "combo": 1419
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1329.jpg?v=c79889ae792dbed2",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1329.mp3?v=14e1180fdf7f930f"
+  },
+  {
+    "id": 1330,
+    "name": "INFLUXION",
+    "artist": "Kinetix/NullTech_PARAMECIUM",
+    "album": "常驻谱面联动Vol.6",
+    "albumId": "219",
+    "albumDate": "2026-10-16",
+    "bpm": 150.0,
+    "duration": "02:38",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 4,
+          "combo": 759
+        },
+        "nm": {
+          "level": 8,
+          "combo": 1423
+        },
+        "hd": {
+          "level": 11,
+          "combo": 1953
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1330.jpg?v=36aac3694a249058",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1330.mp3?v=7e05217cb44b3c8f"
+  },
+  {
+    "id": 1331,
+    "name": "レンジで好吃☆電子調理器使用中華料理四千年歴史瞬間調理完了武闘的料理長☆",
+    "artist": "かめりあ feat. ななひら",
+    "album": "常驻谱面联动Vol.6",
+    "albumId": "219",
+    "albumDate": "2026-10-16",
+    "bpm": 190.0,
+    "duration": "02:50",
+    "charters": [
+      "凌云归故里"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 4,
+          "combo": 547
+        },
+        "nm": {
+          "level": 8,
+          "combo": 1072
+        },
+        "hd": {
+          "level": 12,
+          "combo": 3226
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1331.jpg?v=2fa52b7275f40061",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1331.mp3?v=18bd37b368501214"
   }
 ]
