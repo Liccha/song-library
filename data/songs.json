@@ -36900,5 +36900,41 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1331.jpg?v=2fa52b7275f40061",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1331.mp3?v=18bd37b368501214"
+  },
+  {
+    "id": 1332,
+    "name": "HARD-COREMATA",
+    "artist": "Kobaryo feat. Matatabi Sound System",
+    "album": "常驻谱面联动Vol.6",
+    "albumId": "219",
+    "albumDate": "2026-10-16",
+    "bpm": 200.0,
+    "duration": "03:12",
+    "charters": [
+      "MyHome、Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 5,
+          "combo": 1638
+        },
+        "nm": {
+          "level": 9,
+          "combo": 2651
+        },
+        "hd": {
+          "level": 12,
+          "combo": 3184
+        },
+        "mx": {
+          "level": 14,
+          "combo": 4294
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1332.jpg?v=ee1fc507723645a8",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1332.mp3?v=dbf98e2fe6e4f188"
   }
 ]
