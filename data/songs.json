@@ -36936,5 +36936,29 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1332.jpg?v=ee1fc507723645a8",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1332.mp3?v=dbf98e2fe6e4f188"
+  },
+  {
+    "id": 1333,
+    "name": "I'll  Never Quit Singing",
+    "artist": "LOLA",
+    "album": "术力口の精选集 Vol.9",
+    "albumId": "220",
+    "albumDate": "2026-10-20",
+    "bpm": 140.0,
+    "duration": "01:31",
+    "charters": [
+      "泡沫奶茶"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 9,
+          "combo": 947
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1333.jpg?v=14802b5bd44bfda5",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1333.mp3?v=616228da05620902"
   }
 ]
