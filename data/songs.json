@@ -36112,6 +36112,8 @@
     "id": 1301,
     "name": "U",
     "artist": "電子機械聚合物 feat. 大市唱",
+    "album": "术力口の精选集 Vol.9",
+    "albumId": "220",
     "albumDate": "2026-09-13",
     "bpm": 98.0,
     "duration": "01:18",
@@ -36953,7 +36955,7 @@
       {
         "mode": "4K",
         "hd": {
-          "level": 9,
+          "level": 5,
           "combo": 947
         }
       }
