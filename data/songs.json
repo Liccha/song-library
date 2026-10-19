@@ -36962,5 +36962,77 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1333.jpg?v=14802b5bd44bfda5",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1333.mp3?v=616228da05620902"
+  },
+  {
+    "id": 1334,
+    "name": "致你",
+    "artist": "WOWAIDO! feat. 何畅 & 徐梦甜",
+    "album": "术力口の精选集 Vol.9",
+    "albumId": "220",
+    "albumDate": "2026-10-20",
+    "bpm": 118.0,
+    "duration": "02:22",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 6,
+          "combo": 987
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1334.jpg?v=952abd4d49e806d8",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1334.mp3?v=a2f6e63735d91ea6"
+  },
+  {
+    "id": 1335,
+    "name": "장산범",
+    "artist": "50mang feat. SeeU",
+    "album": "术力口の精选集 Vol.9",
+    "albumId": "220",
+    "albumDate": "2026-10-20",
+    "bpm": 145.0,
+    "duration": "02:04",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 9,
+          "combo": 1300
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1335.jpg?v=5aa0d7ecbaab5b09",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1335.mp3?v=51271663418811ba"
+  },
+  {
+    "id": 1336,
+    "name": "假花没有枯萎的权利",
+    "artist": "五维介质/Zeno feat.海伊",
+    "album": "术力口の精选集 Vol.9",
+    "albumId": "220",
+    "albumDate": "2026-10-20",
+    "bpm": 177.0,
+    "duration": "02:39",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 8,
+          "combo": 1665
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1336.jpg?v=ed67ba53b255e8f4",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1336.mp3?v=adc43480e45a775a"
   }
 ]
