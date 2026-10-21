@@ -37111,15 +37111,26 @@
     "id": 1340,
     "name": "念张师(Hardcore Remix)",
     "artist": "cloudin",
+    "nicknames": [
+      "Liccha"
+    ],
     "album": "心愿点歌台 Vol.10",
     "albumId": "221",
     "albumDate": "2026-10-27",
     "bpm": 175.23,
     "duration": "02:54",
     "charters": [
-      "Liccha"
+      "Treadmill"
     ],
-    "charts": [],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 2361
+        }
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1340.jpg?v=40c3da26b2eba5dc",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1340.mp3?v=04d7eecdc45ba9cf"
   }
