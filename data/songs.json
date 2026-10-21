@@ -37034,5 +37034,93 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1336.jpg?v=ed67ba53b255e8f4",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1336.mp3?v=adc43480e45a775a"
+  },
+  {
+    "id": 1337,
+    "name": "far in the blue sky...",
+    "artist": "Saikoro",
+    "album": "心愿点歌台 Vol.10",
+    "albumId": "220",
+    "albumDate": "2026-10-27",
+    "bpm": 148.0,
+    "duration": "03:07",
+    "charters": [
+      "Sky is the Limit"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 9,
+          "combo": 1564
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1337.jpg?v=e9a2577ecdc95c1f",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1337.mp3?v=eb309c902dee70f8"
+  },
+  {
+    "id": 1338,
+    "name": "点、線、面、立体",
+    "artist": "sound piercer",
+    "album": "心愿点歌台 Vol.10",
+    "albumId": "221",
+    "albumDate": "2026-10-27",
+    "bpm": 1241.0,
+    "duration": "02:14",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 11,
+          "combo": 1117
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1338.jpg?v=f52585887261d92e",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1338.mp3?v=11f5594136945ebe"
+  },
+  {
+    "id": 1339,
+    "name": "A小调第二圆舞曲",
+    "artist": "喵芋折纸",
+    "album": "心愿点歌台 Vol.10",
+    "albumId": "221",
+    "albumDate": "2026-10-27",
+    "bpm": 120.0,
+    "duration": "03:05",
+    "charters": [
+      "Liccha、CreamTea"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 10,
+          "combo": 1639
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1339.jpg?v=5d016740fa3441b1",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1339.mp3?v=1bcf6bf0105c02b9"
+  },
+  {
+    "id": 1340,
+    "name": "念张师(Hardcore Remix)",
+    "artist": "cloudin",
+    "album": "心愿点歌台 Vol.10",
+    "albumId": "221",
+    "albumDate": "2026-10-27",
+    "bpm": 175.23,
+    "duration": "02:54",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1340.jpg?v=40c3da26b2eba5dc",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1340.mp3?v=04d7eecdc45ba9cf"
   }
 ]
