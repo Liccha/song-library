@@ -6484,8 +6484,11 @@
   },
   {
     "id": 218,
-    "name": "妈，我回来了",
+    "name": "妈，我回来了(Don't Tell Mama)",
     "artist": "BeautifulDay",
+    "nicknames": [
+      "妈，我回来了"
+    ],
     "album": "O2JAM Vol.3",
     "albumId": "36",
     "bpm": 131.0,
