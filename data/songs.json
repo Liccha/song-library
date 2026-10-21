@@ -337,7 +337,9 @@
     "name": "Redolent Shape",
     "artist": "Sanaas",
     "nicknames": [
-      "arcaea"
+      "arcaea",
+      "DEBU",
+      "Zaid_J"
     ],
     "artistNick": "阿卡伊",
     "album": "韵律源点Vol.1",
@@ -35735,6 +35737,9 @@
     "id": 1286,
     "name": "NEURO-CLOUD-9",
     "artist": "かめりあ",
+    "nicknames": [
+      "修罗"
+    ],
     "album": "动感节拍 Vol.11",
     "albumId": "212",
     "albumDate": "2026-09-12",
@@ -36160,6 +36165,9 @@
     "id": 1303,
     "name": "idontwant2go",
     "artist": "Pudding_PD",
+    "nicknames": [
+      "泡沫奶茶"
+    ],
     "albumDate": "2026-09-27",
     "bpm": 1441.0,
     "duration": "02:15",
