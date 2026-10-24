@@ -37153,5 +37153,29 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1340.jpg?v=40c3da26b2eba5dc",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1340.mp3?v=04d7eecdc45ba9cf"
+  },
+  {
+    "id": 1341,
+    "name": "Saint Patron",
+    "artist": "Ruby My Dear",
+    "album": "心愿点歌台Vol.10",
+    "albumId": "221",
+    "albumDate": "2026-10-27",
+    "bpm": 219.99999999999977,
+    "duration": "03:21",
+    "charters": [
+      "AbraxosFanboy"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "mx": {
+          "level": 13,
+          "combo": 3655
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1341.jpg?v=4813cce71cd15d92",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1341.mp3?v=6e8df799c19cfab6"
   }
 ]
