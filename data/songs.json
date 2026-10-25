@@ -338,7 +338,6 @@
     "artist": "Sanaas",
     "nicknames": [
       "arcaea",
-      "DEBU",
       "Zaid_J"
     ],
     "artistNick": "阿卡伊",
@@ -448,7 +447,6 @@
     "artist": "みーに feat.はらもりよしな",
     "nicknames": [
       "arcaea",
-      "DEBU",
       "Zaid_J"
     ],
     "artistNick": "阿卡伊",
@@ -505,7 +503,6 @@
     "artist": "M2U",
     "nicknames": [
       "arcaea",
-      "DEBU",
       "Zaid_J"
     ],
     "artistNick": "阿卡伊",
@@ -535,7 +532,6 @@
     "nicknames": [
       "すもーるくらうどしゅがーきゃんでぃ",
       "阿卡伊",
-      "DEBU",
       "Zaid_J"
     ],
     "artistNick": "arcaea",
@@ -616,6 +612,9 @@
     "id": 17,
     "name": "Waterfall",
     "artist": "awfuless meets Zekk",
+    "nicknames": [
+      "Zaid_J"
+    ],
     "album": "动感节拍Vol.1",
     "albumId": "4",
     "albumDate": "2024-06-03",
@@ -640,6 +639,9 @@
     "id": 18,
     "name": "Raise Your Hands",
     "artist": "PSYQUI feat.Such",
+    "nicknames": [
+      "Zaid_J"
+    ],
     "album": "动感节拍Vol.1",
     "albumId": "4",
     "bpm": 172.0,
