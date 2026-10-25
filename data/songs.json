@@ -31799,7 +31799,7 @@
     "bpm": 110.0,
     "duration": "04:32",
     "charters": [
-      "All the best blessings for you"
+      "All the best blessings for you."
     ],
     "charts": [
       {
@@ -32832,6 +32832,9 @@
     "id": 1174,
     "name": "OIIA OIIA (Spinning Cat)",
     "artist": "W&W",
+    "nicknames": [
+      "Liccha"
+    ],
     "artistNick": "Liccha",
     "album": "工作日挑战Vol.15|Catch精选集Vol.2",
     "albumId": "190,191",
