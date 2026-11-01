@@ -36121,5 +36121,53 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1348.jpg?v=6ea79d46e1cb6e5a",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1348.mp3?v=e466dc4d45905ec7"
+  },
+  {
+    "id": 1349,
+    "name": "Asterisk",
+    "artist": "Zekk",
+    "album": "RM Style Event: Ph:Diver精选辑",
+    "albumId": "222",
+    "albumDate": "2026-11-01",
+    "bpm": 195.0,
+    "duration": "02:06",
+    "charters": [
+      "FakeOx"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 1632
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1349.jpg?v=ecb6503ef36b1211",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1349.mp3?v=0d26e33707a8a49f"
+  },
+  {
+    "id": 1350,
+    "name": "Star Cluster",
+    "artist": "M2U",
+    "album": "RM Style Event: Ph:Diver精选辑",
+    "albumId": "222",
+    "albumDate": "2026-11-01",
+    "bpm": 160.0,
+    "duration": "02:06",
+    "charters": [
+      "x1u1u0233"
+    ],
+    "charts": [
+      {
+        "mode": "6K",
+        "mx": {
+          "level": 14,
+          "combo": 1687
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1350.jpg?v=9d3c286e1d472d29",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1350.mp3?v=f8e18c33326f4cf9"
   }
 ]
