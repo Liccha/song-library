@@ -36045,6 +36045,9 @@
     "id": 1344,
     "name": "Xindong",
     "artist": "IAHN",
+    "nicknames": [
+      "Asura夜语"
+    ],
     "album": "RM Style Event: Ph:Diver精选辑",
     "albumId": "222",
     "albumDate": "2026-11-01",
@@ -36189,6 +36192,9 @@
     "id": 1350,
     "name": "Star Cluster",
     "artist": "M2U",
+    "nicknames": [
+      "修罗"
+    ],
     "album": "RM Style Event: Ph:Diver精选辑",
     "albumId": "222",
     "albumDate": "2026-11-01",
@@ -36290,5 +36296,65 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1352.jpg?v=94b50be382745b80",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1352.mp3?v=ea03752363d7b856"
+  },
+  {
+    "id": 1353,
+    "name": "断桥残雪",
+    "artist": "许嵩",
+    "albumDate": "2026-11-01",
+    "bpm": 80.0,
+    "duration": "02:10",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 1,
+          "combo": 415
+        },
+        "nm": {
+          "level": 4,
+          "combo": 437
+        },
+        "hd": {
+          "level": 6,
+          "combo": 662
+        }
+      },
+      {
+        "mode": "5K",
+        "ez": {
+          "level": 1,
+          "combo": 415
+        },
+        "nm": {
+          "level": 4,
+          "combo": 437
+        },
+        "hd": {
+          "level": 6,
+          "combo": 662
+        }
+      },
+      {
+        "mode": "6K",
+        "ez": {
+          "level": 1,
+          "combo": 415
+        },
+        "nm": {
+          "level": 4,
+          "combo": 437
+        },
+        "hd": {
+          "level": 6,
+          "combo": 662
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1353.jpg?v=1518884954a9a50a",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1353.mp3?v=0d99067ca88dc301"
   }
 ]
