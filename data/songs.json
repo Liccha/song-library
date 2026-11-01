@@ -14259,17 +14259,56 @@
     "artist": "Dion Timmer/The Arcturians",
     "album": "激劲音律Vol.1",
     "albumId": "80",
+    "albumDate": "2026-11-01",
     "bpm": 180.0,
-    "duration": "02:34",
+    "duration": "02:33",
     "charters": [
       "Furina"
     ],
     "charts": [
       {
         "mode": "4K",
+        "ez": {
+          "level": 4,
+          "combo": 773
+        },
+        "nm": {
+          "level": 7,
+          "combo": 1023
+        },
         "hd": {
           "level": 10,
           "combo": 1476
+        }
+      },
+      {
+        "mode": "5K",
+        "ez": {
+          "level": 4,
+          "combo": 773
+        },
+        "nm": {
+          "level": 8,
+          "combo": 1023
+        },
+        "hd": {
+          "level": 11,
+          "combo": 1380
+        }
+      },
+      {
+        "mode": "6K",
+        "ez": {
+          "level": 4,
+          "combo": 773
+        },
+        "nm": {
+          "level": 8,
+          "combo": 1039
+        },
+        "hd": {
+          "level": 12,
+          "combo": 1693
         }
       }
     ],
@@ -36169,5 +36208,87 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1350.jpg?v=9d3c286e1d472d29",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1350.mp3?v=f8e18c33326f4cf9"
+  },
+  {
+    "id": 1351,
+    "name": "阳光彩虹小白马",
+    "artist": "大张伟",
+    "albumDate": "2026-11-01",
+    "bpm": 96.0,
+    "duration": "01:42",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "ez": {
+          "level": 2,
+          "combo": 240
+        },
+        "nm": {
+          "level": 5,
+          "combo": 515
+        },
+        "hd": {
+          "level": 8,
+          "combo": 819
+        }
+      },
+      {
+        "mode": "5K",
+        "ez": {
+          "level": 2,
+          "combo": 240
+        },
+        "nm": {
+          "level": 5,
+          "combo": 515
+        },
+        "hd": {
+          "level": 8,
+          "combo": 833
+        }
+      },
+      {
+        "mode": "6K",
+        "ez": {
+          "level": 2,
+          "combo": 240
+        },
+        "nm": {
+          "level": 5,
+          "combo": 515
+        },
+        "hd": {
+          "level": 8,
+          "combo": 862
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1351.jpg?v=92d144fa50ed0802",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1351.mp3?v=2b6e37dae9745407"
+  },
+  {
+    "id": 1352,
+    "name": "Flower In A Hurricane",
+    "artist": "Justice/ Tame Impala/ SZA",
+    "albumDate": "2026-11-01",
+    "bpm": 126.0,
+    "duration": "01:25",
+    "charters": [
+      "Liccha"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 7,
+          "combo": 478
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1352.jpg?v=94b50be382745b80",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1352.mp3?v=ea03752363d7b856"
   }
 ]
