@@ -36025,5 +36025,101 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1344.jpg?v=3b96382ada1f5817",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1344.mp3?v=7e2c08ce80b42ac8"
+  },
+  {
+    "id": 1345,
+    "name": "Be Rain",
+    "artist": "EunoH feat. WARMBO",
+    "album": "RM Style Event: Ph:Diver精选辑",
+    "albumId": "222",
+    "albumDate": "2026-11-01",
+    "bpm": 140.0,
+    "duration": "02:06",
+    "charters": [
+      "神馬 a.k.a asdwadsxc"
+    ],
+    "charts": [
+      {
+        "mode": "5K",
+        "hd": {
+          "level": 10,
+          "combo": 1532
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1345.jpg?v=3b3ca35d05b379bd",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1345.mp3?v=c17c4cefe9ca9282"
+  },
+  {
+    "id": 1346,
+    "name": "SWAY",
+    "artist": "ESTi",
+    "album": "RM Style Event: Ph:Diver精选辑",
+    "albumId": "222",
+    "albumDate": "2026-11-01",
+    "bpm": 128.0,
+    "duration": "02:07",
+    "charters": [
+      "ewood"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 10,
+          "combo": 1221
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1346.jpg?v=2fd20f22cd5c4e03",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1346.mp3?v=c7230f939e4c4e9c"
+  },
+  {
+    "id": 1347,
+    "name": "Temptation",
+    "artist": "NieN",
+    "album": "RM Style Event: Ph:Diver精选辑",
+    "albumId": "222",
+    "albumDate": "2026-11-01",
+    "bpm": 206.0,
+    "duration": "02:31",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 2246
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1347.jpg?v=fa1214b066ab1014",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1347.mp3?v=d09579af198b03f7"
+  },
+  {
+    "id": 1348,
+    "name": "Vision",
+    "artist": "SQUAR",
+    "album": "RM Style Event: Ph:Diver精选辑",
+    "albumId": "222",
+    "albumDate": "2026-11-01",
+    "bpm": 175.0,
+    "duration": "02:25",
+    "charters": [
+      "凌云归故里 (feat. bassor)"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 1413
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1348.jpg?v=6ea79d46e1cb6e5a",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1348.mp3?v=e466dc4d45905ec7"
   }
 ]
