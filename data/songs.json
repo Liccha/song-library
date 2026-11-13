@@ -10668,7 +10668,7 @@
     "album": "工作日挑战Vol.5",
     "albumId": "72",
     "albumDate": "2025-01-22",
-    "bpm": 0,
+    "bpm": 170.0,
     "duration": "01:50",
     "charters": [
       "Liccha"
@@ -11140,8 +11140,8 @@
     "charts": [
       {
         "mode": "4K",
-        "hd": {
-          "level": 12,
+        "nm": {
+          "level": 10,
           "combo": 2826
         }
       },
@@ -11150,6 +11150,13 @@
         "hd": {
           "level": 12,
           "combo": 2876
+        }
+      },
+      {
+        "mode": "6K",
+        "hd": {
+          "level": 13,
+          "combo": 3174
         }
       }
     ],
@@ -14277,8 +14284,8 @@
           "combo": 1023
         },
         "hd": {
-          "level": 11,
-          "combo": 1381
+          "level": 10,
+          "combo": 1382
         }
       },
       {
@@ -27771,7 +27778,8 @@
         }
       }
     ],
-    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1015.jpg?v=8f39f2c99b46a665"
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1015.jpg?v=8f39f2c99b46a665",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1015.ogg?v=26b06e66191aa43a"
   },
   {
     "id": 1016,
@@ -30287,7 +30295,7 @@
     "charts": [
       {
         "mode": "6K",
-        "hd": {
+        "mx": {
           "level": 13,
           "combo": 7000
         }
@@ -30840,7 +30848,7 @@
   },
   {
     "id": 1138,
-    "name": "玩凌云谱子好爽",
+    "name": "凌云我玩你的谱子好爽",
     "artist": "凌云诡这里 aka. AI_French Revoltion",
     "albumDate": "2026-05-01",
     "bpm": 200.0,
@@ -31263,7 +31271,7 @@
         }
       }
     ],
-    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1156.jpg?v=339c0d46acb614ed"
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1156.png?v=74b04b7aa610b6c6"
   },
   {
     "id": 1157,
@@ -31968,7 +31976,7 @@
     ],
     "charts": [
       {
-        "mode": "4K",
+        "mode": "6K",
         "mx": {
           "level": 14,
           "combo": 3976
@@ -32287,8 +32295,8 @@
     "name": "壱雫空",
     "artist": "MyGo!!!!!",
     "album": "炫彩之音Vol.4",
-    "albumId": "193",
-    "albumDate": "2026-06-06",
+    "albumId": "193,223",
+    "albumDate": "--",
     "bpm": 204.0,
     "duration": "01:35",
     "charters": [
@@ -32297,6 +32305,14 @@
     "charts": [
       {
         "mode": "4K",
+        "ez": {
+          "level": 4,
+          "combo": 509
+        },
+        "nm": {
+          "level": 8,
+          "combo": 986
+        },
         "hd": {
           "level": 10,
           "combo": 1446
@@ -33607,7 +33623,7 @@
   },
   {
     "id": 1248,
-    "name": "Night Of Fire",
+    "name": "焰火之夜(Night Of Fire)",
     "artist": "Niko",
     "album": "SUPER EUROBEAT Vol.2",
     "albumId": "204",
@@ -33807,7 +33823,7 @@
       {
         "mode": "4K",
         "hd": {
-          "level": 4,
+          "level": 8,
           "combo": 892
         }
       }
@@ -34253,7 +34269,8 @@
         }
       }
     ],
-    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1273.jpg?v=5754ab6232e104ed"
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1273.jpg?v=6140697afd758cdf",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1273.mp3?v=253ad412893ac675"
   },
   {
     "id": 1274,
@@ -34789,7 +34806,7 @@
       {
         "mode": "4K",
         "hd": {
-          "level": 10,
+          "level": 12,
           "combo": 1844
         }
       }
@@ -34996,7 +35013,7 @@
       {
         "mode": "4K",
         "hd": {
-          "level": 5,
+          "level": 6,
           "combo": 514
         }
       }
@@ -35781,8 +35798,8 @@
       {
         "mode": "4K",
         "hd": {
-          "level": 5,
-          "combo": 947
+          "level": 8,
+          "combo": 941
         }
       }
     ],
@@ -35815,7 +35832,7 @@
   },
   {
     "id": 1335,
-    "name": "장산범(苌山虎)",
+    "name": "苌山虎",
     "artist": "50mang feat. SeeU",
     "album": "术力口の精选集 Vol.9",
     "albumId": "220",
@@ -35895,7 +35912,7 @@
     "album": "心愿点歌台 Vol.10",
     "albumId": "221",
     "albumDate": "2026-10-27",
-    "bpm": 1241.0,
+    "bpm": 124.0,
     "duration": "02:14",
     "charters": [
       "Liccha"
@@ -36356,5 +36373,125 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1353.jpg?v=1518884954a9a50a",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1353.mp3?v=0d99067ca88dc301"
+  },
+  {
+    "id": 1354,
+    "name": "Please Don't Go",
+    "artist": "Joel Adams",
+    "album": "欧美经典Vol.6",
+    "albumId": "223",
+    "albumDate": "2026-11-10",
+    "bpm": 84.0,
+    "duration": "02:45",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 6,
+          "combo": 1078
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1354.jpg?v=e1a37315c36e5116",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1354.mp3?v=302a3564da697a7a"
+  },
+  {
+    "id": 1355,
+    "name": "Insomnia",
+    "artist": "Craig David",
+    "album": "欧美经典Vol.6",
+    "albumId": "223",
+    "albumDate": "2026-11-10",
+    "bpm": 125.4,
+    "duration": "02:27",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 7,
+          "combo": 1108
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1355.jpg?v=be4fb87ec344dbb8",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1355.mp3?v=84867a02c7974fc4"
+  },
+  {
+    "id": 1356,
+    "name": "That Girl",
+    "artist": "Olly Murs",
+    "album": "欧美经典Vol.6",
+    "albumId": "223",
+    "albumDate": "2026-11-10",
+    "bpm": 89.0,
+    "duration": "01:59",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 7,
+          "combo": 755
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1356.jpg?v=b7df9e36baac6e59",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1356.mp3?v=7d24bea5d2df4eed"
+  },
+  {
+    "id": 1357,
+    "name": "Send It",
+    "artist": "Austin Mahone/Rich Homie Quan",
+    "album": "欧美经典Vol.6",
+    "albumId": "223",
+    "albumDate": "2026-11-10",
+    "bpm": 147.0,
+    "duration": "02:10",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 8,
+          "combo": 1109
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1357.jpg?v=b2c8c12f02b301e6",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1357.mp3?v=877cdf3d033bd74c"
+  },
+  {
+    "id": 1358,
+    "name": "Stitches",
+    "artist": "Shawn Mendes",
+    "album": "欧美经典Vol.6",
+    "albumId": "223",
+    "albumDate": "2026-11-10",
+    "bpm": 150.0,
+    "duration": "02:30",
+    "charters": [
+      "Furina"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 8,
+          "combo": 1332
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1358.jpg?v=60d7cad337a1c75c",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1358.mp3?v=dfed7fd4e4ca719c"
   }
 ]
