@@ -27722,7 +27722,8 @@
     "name": "TYR",
     "artist": "Rune Caster",
     "album": "工作日挑战Vol.14",
-    "albumId": "181",
+    "albumId": "181,223",
+    "albumDate": "--",
     "bpm": 190.0,
     "duration": "02:20",
     "charters": [
@@ -27731,6 +27732,14 @@
     "charts": [
       {
         "mode": "4K",
+        "ez": {
+          "level": 5,
+          "combo": 760
+        },
+        "nm": {
+          "level": 9,
+          "combo": 1314
+        },
         "hd": {
           "level": 12,
           "combo": 1927
@@ -27840,7 +27849,7 @@
     "charts": [
       {
         "mode": "4K",
-        "hd": {
+        "mx": {
           "level": 13,
           "combo": 3066
         }
@@ -30077,7 +30086,7 @@
   },
   {
     "id": 1106,
-    "name": "Gamegame",
+    "name": "Gamegame?",
     "artist": "s-don",
     "album": "RM Style Event: 愚乐回响",
     "albumId": "178",
@@ -30096,7 +30105,7 @@
         }
       }
     ],
-    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1106.jpg?v=82a176507ba45601"
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1106.png?v=ca631f4375c03441"
   },
   {
     "id": 1107,
@@ -30165,7 +30174,7 @@
     "charts": [
       {
         "mode": "4K",
-        "hd": {
+        "mx": {
           "level": 14,
           "combo": 2617
         }
