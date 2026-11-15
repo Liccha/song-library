@@ -2302,7 +2302,7 @@
   },
   {
     "id": 78,
-    "name": "FLASH ME BACK",
+    "name": "Flash Me Back",
     "artist": "かめりあ",
     "nicknames": [
       "camellia"
@@ -2313,14 +2313,14 @@
     "bpm": 175.0,
     "duration": "05:22",
     "charters": [
-      "泡沫奶茶"
+      "CreamTea"
     ],
     "charts": [
       {
         "mode": "4K",
         "hd": {
           "level": 12,
-          "combo": 4346
+          "combo": 3929
         }
       }
     ],
@@ -12676,7 +12676,7 @@
   },
   {
     "id": 454,
-    "name": "cocoro☆cosmetic",
+    "name": "cocoro*cosmetic",
     "artist": "KOTONOHOUSE",
     "nicknames": [
       "arcaea"
@@ -26601,7 +26601,7 @@
       {
         "mode": "5K",
         "hd": {
-          "level": 11,
+          "level": 12,
           "combo": 2172
         }
       }
@@ -27179,8 +27179,8 @@
     "name": "Reflection and Decision",
     "artist": "Zhu Jintai",
     "album": "主线三<镜水奇谈>",
-    "albumId": "163",
-    "albumDate": "2026-01-21",
+    "albumId": "163,223",
+    "albumDate": "--",
     "bpm": 104.0,
     "duration": "02:08",
     "charters": [
@@ -27202,7 +27202,8 @@
     "name": "The Moment of Dreams",
     "artist": "澤野弘之",
     "album": "主线三<镜水奇谈>",
-    "albumId": "163",
+    "albumId": "163,223",
+    "albumDate": "--",
     "bpm": 140.0,
     "duration": "03:19",
     "charters": [
@@ -27221,11 +27222,19 @@
         "hd": {
           "level": 11,
           "combo": 2868
+        },
+        "mx": {
+          "level": 11,
+          "combo": 2868
         }
       },
       {
         "mode": "6K",
         "hd": {
+          "level": 12,
+          "combo": 2814
+        },
+        "mx": {
           "level": 12,
           "combo": 2814
         }
@@ -27238,9 +27247,10 @@
     "name": "The Wings of Wind",
     "artist": "Ample Sound",
     "album": "主线三<镜水奇谈>",
-    "albumId": "163",
+    "albumId": "163,223",
+    "albumDate": "--",
     "bpm": 160.0,
-    "duration": "01:33",
+    "duration": "01:31",
     "charters": [
       "Bassor、Rovlas"
     ],
@@ -27267,11 +27277,12 @@
     "name": "Syntony Rayleigh",
     "artist": "Rovlas",
     "album": "主线三<镜水奇谈>",
-    "albumId": "163",
+    "albumId": "163,223",
+    "albumDate": "--",
     "bpm": 170.0,
-    "duration": "03:00",
+    "duration": "02:58",
     "charters": [
-      "泡沫奶茶、Rovlas"
+      "Rovlas、泡沫奶茶"
     ],
     "charts": [
       {
@@ -27293,6 +27304,10 @@
         "hd": {
           "level": 14,
           "combo": 3297
+        },
+        "mx": {
+          "level": 14,
+          "combo": 3297
         }
       }
     ],
@@ -27303,9 +27318,10 @@
     "name": "The Consonance",
     "artist": "Rovlas",
     "album": "主线三<镜水奇谈>",
-    "albumId": "163",
+    "albumId": "163,223",
+    "albumDate": "--",
     "bpm": 175.0,
-    "duration": "02:05",
+    "duration": "02:02",
     "charters": [
       "凌云归故里、Rovlas"
     ],
@@ -27326,11 +27342,19 @@
         "hd": {
           "level": 14,
           "combo": 2484
+        },
+        "mx": {
+          "level": 14,
+          "combo": 2484
         }
       },
       {
         "mode": "6K",
         "hd": {
+          "level": 14,
+          "combo": 2678
+        },
+        "mx": {
           "level": 14,
           "combo": 2678
         }
@@ -27343,7 +27367,8 @@
     "name": "Etherealizer Timeout",
     "artist": "Rovlas",
     "album": "主线三<镜水奇谈>",
-    "albumId": "163",
+    "albumId": "163,223",
+    "albumDate": "--",
     "bpm": 180.0,
     "duration": "02:11",
     "charters": [
@@ -27362,11 +27387,19 @@
         "hd": {
           "level": 14,
           "combo": 2083
+        },
+        "mx": {
+          "level": 14,
+          "combo": 2083
         }
       },
       {
         "mode": "6K",
         "hd": {
+          "level": 14,
+          "combo": 2145
+        },
+        "mx": {
           "level": 14,
           "combo": 2145
         }
@@ -27634,7 +27667,8 @@
     "id": 1010,
     "name": "Stray",
     "artist": "Feint",
-    "albumDate": "B2026-02-13",
+    "albumId": "223",
+    "albumDate": "--",
     "bpm": 173.0,
     "duration": "01:55",
     "charters": [
@@ -27643,6 +27677,14 @@
     "charts": [
       {
         "mode": "4K",
+        "ez": {
+          "level": 3,
+          "combo": 694
+        },
+        "nm": {
+          "level": 8,
+          "combo": 1118
+        },
         "hd": {
           "level": 11,
           "combo": 1340
@@ -27886,22 +27928,31 @@
   {
     "id": 1020,
     "name": "快乐手帐",
-    "artist": "盖盖Nyan feat.初音未来",
+    "artist": "盖盖Nyan feat.初音ミク",
     "nicknames": [
       "联动",
       "Vocaloid"
     ],
     "artistNick": "术力口",
     "album": "Monthly Event: 拜年祭",
-    "albumId": "165",
+    "albumId": "165,223",
+    "albumDate": "--",
     "bpm": 130.0,
     "duration": "02:06",
     "charters": [
-      "XYC"
+      "AnChenOwO"
     ],
     "charts": [
       {
         "mode": "5K",
+        "ez": {
+          "level": 2,
+          "combo": 400
+        },
+        "nm": {
+          "level": 5,
+          "combo": 696
+        },
         "hd": {
           "level": 8,
           "combo": 1041
@@ -28571,7 +28622,7 @@
   },
   {
     "id": 1047,
-    "name": "Self-Destruction Sequence",
+    "name": "自毁序列(Self-Destruction Sequence)",
     "artist": "Yuri O",
     "bpm": 160.0,
     "duration": "03:31",
@@ -28672,16 +28723,24 @@
       "联动"
     ],
     "album": "Monthly Event: 万相风采",
-    "albumId": "169",
-    "albumDate": "B2026-03-01",
+    "albumId": "169,223",
+    "albumDate": "--",
     "bpm": 140.0,
-    "duration": "01:28",
+    "duration": "01:33",
     "charters": [
-      "XYC"
+      "AnChenOwO"
     ],
     "charts": [
       {
         "mode": "4K",
+        "ez": {
+          "level": 3,
+          "combo": 389
+        },
+        "nm": {
+          "level": 6,
+          "combo": 603
+        },
         "hd": {
           "level": 8,
           "combo": 821
@@ -28745,14 +28804,14 @@
   {
     "id": 1054,
     "name": "献向镜水的月光",
-    "artist": "HOYO-MiX, 真栗",
+    "artist": "HOYO-MiX",
     "nicknames": [
       "联动",
       "原神"
     ],
     "album": "Monthly Event: 万相风采",
-    "albumId": "169",
-    "albumDate": "B2026-03-01",
+    "albumId": "169,223",
+    "albumDate": "--",
     "bpm": 120.0,
     "duration": "03:27",
     "charters": [
@@ -28761,6 +28820,14 @@
     "charts": [
       {
         "mode": "4K",
+        "ez": {
+          "level": 4,
+          "combo": 1022
+        },
+        "nm": {
+          "level": 7,
+          "combo": 1127
+        },
         "hd": {
           "level": 11,
           "combo": 1790
@@ -28803,8 +28870,8 @@
       "联动"
     ],
     "album": "Monthly Event: 万相风采",
-    "albumId": "169",
-    "albumDate": "B2026-03-01",
+    "albumId": "169,223",
+    "albumDate": "--",
     "bpm": 179.83,
     "duration": "03:49",
     "charters": [
@@ -28815,6 +28882,10 @@
         "mode": "6K",
         "hd": {
           "level": 12,
+          "combo": 4101
+        },
+        "mx": {
+          "level": 8,
           "combo": 4101
         }
       }
@@ -28943,7 +29014,8 @@
     "name": "Ars",
     "artist": "Connexio/RYOQUCHA/Link''0/MoAE：.",
     "album": "动感节拍Vol.10",
-    "albumId": "170",
+    "albumId": "170,223",
+    "albumDate": "--",
     "bpm": 194.0,
     "duration": "03:45",
     "charters": [
@@ -28955,6 +29027,10 @@
         "hd": {
           "level": 13,
           "combo": 3853
+        },
+        "mx": {
+          "level": 13,
+          "combo": 3853
         }
       }
     ],
@@ -28962,7 +29038,7 @@
   },
   {
     "id": 1063,
-    "name": "東京シュノーケル(东京通气管)",
+    "name": "东京通气管(東京シュノーケル)",
     "artist": "Yunomi feat. nicamoq",
     "nicknames": [
       "联动",
@@ -29083,7 +29159,7 @@
     "charts": [
       {
         "mode": "4K",
-        "hd": {
+        "mx": {
           "level": 13,
           "combo": 2172
         }
@@ -29349,17 +29425,26 @@
   {
     "id": 1078,
     "name": "BREaK! BREaK! BREaK!",
-    "artist": "HiTECH NINJA vs Cranky",
+    "artist": "HiTECH NINJA / Cranky",
     "album": "工作日挑战Vol.13",
-    "albumId": "173",
+    "albumId": "173,223",
+    "albumDate": "--",
     "bpm": 165.0,
-    "duration": "02:31",
+    "duration": "02:28",
     "charters": [
       "Bassor"
     ],
     "charts": [
       {
         "mode": "4K",
+        "ez": {
+          "level": 4,
+          "combo": 885
+        },
+        "nm": {
+          "level": 8,
+          "combo": 1758
+        },
         "hd": {
           "level": 13,
           "combo": 2177
@@ -29477,7 +29562,7 @@
         }
       }
     ],
-    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1083.jpg?v=252c7917bdfbfb50"
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1083.png?v=90f766f300ce2cd0"
   },
   {
     "id": 1084,
@@ -30100,12 +30185,12 @@
       {
         "mode": "4K",
         "hd": {
-          "level": 11,
+          "level": 10,
           "combo": 1280
         }
       }
     ],
-    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1106.png?v=ca631f4375c03441"
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1106.jpg?v=401d41c5a7f0af60"
   },
   {
     "id": 1107,
@@ -32697,7 +32782,7 @@
   },
   {
     "id": 1209,
-    "name": "다시",
+    "name": "Again",
     "artist": "Memme",
     "album": "常驻谱面联动Vol.5",
     "albumId": "196",
@@ -34949,7 +35034,7 @@
       {
         "mode": "4K",
         "hd": {
-          "level": 12,
+          "level": 13,
           "combo": 2283
         }
       }
@@ -35747,7 +35832,7 @@
           "combo": 1072
         },
         "hd": {
-          "level": 12,
+          "level": 13,
           "combo": 3226
         }
       }
