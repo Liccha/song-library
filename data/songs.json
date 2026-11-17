@@ -36615,5 +36615,29 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1358.jpg?v=60d7cad337a1c75c",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1358.mp3?v=dfed7fd4e4ca719c"
+  },
+  {
+    "id": 1359,
+    "name": "今月のおすすめプレイリストを検索します(feat. Yozumina)",
+    "artist": "kazeoff",
+    "album": "动感节拍Vol.12",
+    "albumId": "224",
+    "albumDate": "2026-11-18",
+    "bpm": 145.0,
+    "duration": "05:51",
+    "charters": [
+      "testbot"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "hd": {
+          "level": 12,
+          "combo": 2176
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1359.jpg?v=5c4aa01c823af097",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1359.mp3?v=9a4a7127158403a3"
   }
 ]
