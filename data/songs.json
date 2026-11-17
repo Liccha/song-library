@@ -36639,5 +36639,29 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1359.jpg?v=5c4aa01c823af097",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1359.mp3?v=9a4a7127158403a3"
+  },
+  {
+    "id": 1360,
+    "name": "Metaphomation",
+    "artist": "lapix vs. RYOQUCHA",
+    "album": "动感节拍Vol.12",
+    "albumId": "224",
+    "albumDate": "2026-11-18",
+    "bpm": 150.0,
+    "duration": "05:13",
+    "charters": [
+      "凌云归故里 & Bassor"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "mx": {
+          "level": 14,
+          "combo": 4448
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1360.jpg?v=a600be06f819f8ff",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1360.mp3?v=21a56c2c106b5c47"
   }
 ]
