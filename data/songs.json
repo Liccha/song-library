@@ -1310,7 +1310,8 @@
     ],
     "artistNick": "camellia",
     "album": "律动电玩Vol.1",
-    "albumId": "9",
+    "albumId": "9,223",
+    "albumDate": "--",
     "bpm": 181.0,
     "duration": "02:45",
     "charters": [
@@ -1320,7 +1321,7 @@
       {
         "mode": "4K",
         "hd": {
-          "level": 12,
+          "level": 13,
           "combo": 2402
         }
       }
@@ -25226,11 +25227,12 @@
   {
     "id": 915,
     "name": "Ignite",
-    "artist": "Jeff Williams/ Casey Lee Williams",
+    "artist": "Jeff Williams/Casey Lee Williams",
     "album": "心愿点歌台Vol.6",
-    "albumId": "150",
+    "albumId": "150,223",
+    "albumDate": "--",
     "bpm": 145.5,
-    "duration": "02:24",
+    "duration": "02:23",
     "charters": [
       "Furina"
     ],
@@ -25240,6 +25242,10 @@
         "hd": {
           "level": 13,
           "combo": 2160
+        },
+        "mx": {
+          "level": 13,
+          "combo": 2360
         }
       }
     ],
@@ -25745,9 +25751,17 @@
     "charts": [
       {
         "mode": "4K",
+        "ez": {
+          "level": 5,
+          "combo": 866
+        },
+        "nm": {
+          "level": 8,
+          "combo": 1483
+        },
         "hd": {
           "level": 12,
-          "combo": 1976
+          "combo": 1790
         }
       }
     ],
@@ -25762,15 +25776,24 @@
     ],
     "artistNick": "联动",
     "album": "Monthly Event: 中二节奏",
-    "albumId": "153",
+    "albumId": "153,223",
+    "albumDate": "--",
     "bpm": 200.0,
     "duration": "02:19",
     "charters": [
-      "XYC"
+      "AnChenOwO"
     ],
     "charts": [
       {
         "mode": "4K",
+        "ez": {
+          "level": 5,
+          "combo": 937
+        },
+        "nm": {
+          "level": 10,
+          "combo": 1447
+        },
         "hd": {
           "level": 13,
           "combo": 2055
@@ -25814,17 +25837,22 @@
     ],
     "artistNick": "联动",
     "album": "Monthly Event: 中二节奏",
-    "albumId": "153",
+    "albumId": "153,223",
+    "albumDate": "--",
     "bpm": 140.0,
-    "duration": "02:22",
+    "duration": "02:21",
     "charters": [
-      "StarryNight01"
+      "StarryNght01"
     ],
     "charts": [
       {
         "mode": "6K",
         "hd": {
           "level": 13,
+          "combo": 2469
+        },
+        "mx": {
+          "level": 12,
           "combo": 2469
         }
       }
@@ -26377,7 +26405,7 @@
     "charts": [
       {
         "mode": "4K",
-        "hd": {
+        "mx": {
           "level": 14,
           "combo": 4529
         }
@@ -28427,7 +28455,7 @@
       {
         "mode": "4K",
         "hd": {
-          "level": 14,
+          "level": 13,
           "combo": 2984
         }
       }
