@@ -18402,11 +18402,11 @@
     "charts": [
       {
         "mode": "4K",
-        "nm": {
+        "hd": {
           "level": 11,
           "combo": 2903
         },
-        "hd": {
+        "mx": {
           "level": 13,
           "combo": 4655
         }
@@ -21043,7 +21043,7 @@
   },
   {
     "id": 756,
-    "name": "星轨错乱 (Disorder (feat. YURI))",
+    "name": "Disorder (feat. YURI)",
     "artist": "HyuN,yuri",
     "album": "BPM阶梯计划Vol.3",
     "albumId": "122",
@@ -21414,9 +21414,9 @@
     ],
     "charts": [
       {
-        "mode": "5K",
+        "mode": "4K",
         "hd": {
-          "level": 10,
+          "level": 11,
           "combo": 2240
         }
       }
@@ -22111,7 +22111,7 @@
     ],
     "charts": [
       {
-        "mode": "4K",
+        "mode": "5K",
         "hd": {
           "level": 6,
           "combo": 1175
@@ -29858,7 +29858,7 @@
       {
         "mode": "5K",
         "hd": {
-          "level": 11,
+          "level": 12,
           "combo": 2545
         }
       }
@@ -36620,6 +36620,11 @@
     "id": 1359,
     "name": "今月のおすすめプレイリストを検索します(feat. Yozumina)",
     "artist": "kazeoff",
+    "nicknames": [
+      "Liccha",
+      "Bassor",
+      "CreamTea"
+    ],
     "album": "动感节拍Vol.12",
     "albumId": "224",
     "albumDate": "2026-11-18",
@@ -36663,5 +36668,104 @@
     ],
     "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1360.jpg?v=a600be06f819f8ff",
     "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1360.mp3?v=21a56c2c106b5c47"
+  },
+  {
+    "id": 1361,
+    "name": "All in on Your Shadow",
+    "artist": "NormalM vs. f2",
+    "album": "动感节拍Vol.12",
+    "albumId": "224",
+    "albumDate": "2026-11-18",
+    "bpm": 150.0,
+    "duration": "05:16",
+    "charters": [
+      "Liccha & Bassor"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "mx": {
+          "level": 14,
+          "combo": 4630
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1361.jpg?v=fbacde2abf9c0e38",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1361.mp3?v=94096cc235bfbf96"
+  },
+  {
+    "id": 1362,
+    "name": "Phoenixismia ~Hallucination of Eternity in a Timeless Realm~",
+    "artist": "C4ydora (CS4W + Pirendora)",
+    "album": "动感节拍Vol.12",
+    "albumId": "224",
+    "albumDate": "2026-11-18",
+    "bpm": 150.0,
+    "duration": "05:25",
+    "charters": [
+      "Rain Emperor ~ I. The Beginning ~"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "mx": {
+          "level": 14,
+          "combo": 4631
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1362.jpg?v=1a232af2d32931c3",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1362.mp3?v=c9a8fa112617749d"
+  },
+  {
+    "id": 1363,
+    "name": "AscensiO",
+    "artist": "Raphiiel",
+    "album": "动感节拍Vol.12",
+    "albumId": "224",
+    "albumDate": "2026-11-18",
+    "bpm": 210.0,
+    "duration": "08:28",
+    "charters": [
+      "BassOr vs. 凌云归故里 (feat. Mizar)"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "mx": {
+          "level": 15,
+          "combo": 8944
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1363.jpg?v=d020081ef9499779",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1363.mp3?v=42df964056478203"
+  },
+  {
+    "id": 1364,
+    "name": "黝堊の祈り - Anima immortalis est. -",
+    "artist": "Imperial Circus Dead Decadence",
+    "nicknames": [
+      "Mizar"
+    ],
+    "album": "动感节拍Vol.12",
+    "albumId": "224",
+    "albumDate": "2026-11-18",
+    "bpm": 270.0,
+    "duration": "07:52",
+    "charters": [
+      "O anima aeterna"
+    ],
+    "charts": [
+      {
+        "mode": "4K",
+        "mx": {
+          "level": 15,
+          "combo": 10558
+        }
+      }
+    ],
+    "cover": "https://raw.githubusercontent.com/Liccha/song-library/master/covers/1364.jpg?v=2ca556358055f13c",
+    "preview": "https://raw.githubusercontent.com/Liccha/song-library/master/previews/1364.mp3?v=9a1225f79231ac42"
   }
 ]
