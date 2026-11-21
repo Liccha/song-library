@@ -17373,14 +17373,26 @@
     "bpm": 0,
     "duration": "04:58",
     "charters": [
-      "Bassor"
+      "Liccha、Bassor"
     ],
     "charts": [
       {
         "mode": "4K",
+        "ez": {
+          "level": 4,
+          "combo": 1039
+        },
+        "nm": {
+          "level": 9,
+          "combo": 2237
+        },
         "hd": {
+          "level": 12,
+          "combo": 2469
+        },
+        "mx": {
           "level": 15,
-          "combo": 4716
+          "combo": 4929
         }
       }
     ],
@@ -27703,7 +27715,7 @@
     "id": 1010,
     "name": "Stray",
     "artist": "Feint",
-    "albumId": "223",
+    "albumId": "223,224",
     "albumDate": "--",
     "bpm": 173.0,
     "duration": "01:55",
@@ -31954,8 +31966,8 @@
     "name": "χρόνος",
     "artist": "Street",
     "album": "工作日挑战Vol.15",
-    "albumId": "190",
-    "albumDate": "2026-05-25",
+    "albumId": "190,224",
+    "albumDate": "--",
     "bpm": 190.0,
     "duration": "02:39",
     "charters": [
