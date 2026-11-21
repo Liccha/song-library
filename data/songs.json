@@ -4071,8 +4071,8 @@
       {
         "mode": "4K",
         "hd": {
-          "level": 11,
-          "combo": 1903
+          "level": 12,
+          "combo": 1840
         }
       }
     ],
@@ -13252,7 +13252,7 @@
       {
         "mode": "4K",
         "hd": {
-          "level": 11,
+          "level": 13,
           "combo": 1736
         }
       }
@@ -17336,7 +17336,7 @@
   },
   {
     "id": 620,
-    "name": "衔尾蛇 (Ouroboros-Twin Stroke Of The End-)",
+    "name": "衔尾蛇 (ouroboros-Twin Stroke Of The End-)",
     "artist": "Cranky VS MASAKI",
     "album": "工作日挑战Vol.6",
     "albumId": "99",
@@ -17348,9 +17348,17 @@
     "charts": [
       {
         "mode": "4K",
+        "ez": {
+          "level": 5,
+          "combo": 811
+        },
+        "nm": {
+          "level": 10,
+          "combo": 1641
+        },
         "hd": {
           "level": 13,
-          "combo": 2233
+          "combo": 2224
         }
       }
     ],
@@ -22819,7 +22827,7 @@
     "id": 825,
     "name": "莪們詠逺乜吥崾兂話岢說",
     "artist": "t6lue",
-    "bpm": 116.4,
+    "bpm": 116.0,
     "duration": "01:06",
     "charters": [
       "泡沫奶茶"
@@ -27770,7 +27778,8 @@
     "id": 1012,
     "name": "Parousia",
     "artist": "xi",
-    "albumDate": "B2026-02-22",
+    "albumId": "224",
+    "albumDate": "--",
     "bpm": 158.0,
     "duration": "02:14",
     "charters": [
@@ -27779,6 +27788,14 @@
     "charts": [
       {
         "mode": "4K",
+        "ez": {
+          "level": 4,
+          "combo": 536
+        },
+        "nm": {
+          "level": 8,
+          "combo": 1060
+        },
         "hd": {
           "level": 11,
           "combo": 1527
@@ -36623,7 +36640,7 @@
     "nicknames": [
       "Liccha",
       "Bassor",
-      "CreamTea"
+      "泡沫奶茶"
     ],
     "album": "动感节拍Vol.12",
     "albumId": "224",
